@@ -1,0 +1,15164 @@
+[{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80897"
+	},
+	"zukan_id": "001",
+	"zukan_sub_id": 0,
+	"pokemon_name": "妙蛙种子",
+	"pokemon_sub_name": "",
+	"weight": 6.9,
+	"height": 0.7,
+	"file_name": "/img/pm/cf47f9fac4ed3037ff2a8ea83204e32aff8fb5f3.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"茂盛"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，草属性的招式威力会提高。"
+	],
+	"category_name": "种子宝可梦",
+	"evolution": [
+		"001",
+		"002",
+		"003"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"会看到它在太阳底下睡午觉的样子。在沐浴了充足的阳光后，它背上的种子就会茁壮成长。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80898"
+	},
+	"zukan_id": "002",
+	"zukan_sub_id": 0,
+	"pokemon_name": "妙蛙草",
+	"pokemon_sub_name": "",
+	"weight": 13,
+	"height": 1,
+	"file_name": "/img/pm/3245e4f8c04aa0619cb31884dbf123c6918b3700.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"茂盛"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，草属性的招式威力会提高。"
+	],
+	"category_name": "种子宝可梦",
+	"evolution": [
+		"001",
+		"002",
+		"003"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"它的腰腿会为了支撑背上的花苞而变强。如果待在太阳底下一动不动的时间变长了，就表示大花即将盛开。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80899"
+	},
+	"zukan_id": "003",
+	"zukan_sub_id": 0,
+	"pokemon_name": "妙蛙花",
+	"pokemon_sub_name": "",
+	"weight": 100,
+	"height": 2,
+	"file_name": "/img/pm/0186d64c5773c8d3d03cd05dc79574b2d2798d4f.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"茂盛"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，草属性的招式威力会提高。"
+	],
+	"category_name": "种子宝可梦",
+	"evolution": [
+		"001",
+		"002",
+		"003"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"据说充足的营养和阳光会让花儿的颜色变得更加鲜艳。花香会治愈人心。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8089a"
+	},
+	"zukan_id": "003",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级妙蛙花",
+	"pokemon_sub_name": "",
+	"weight": 155.5,
+	"height": 2.4,
+	"file_name": "/img/pm/3bfcc4360c44f37815dc1e59f75818935cbfc41b.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"厚脂肪"
+	],
+	"ability_info": [
+		"因为被厚厚的脂肪保护着，会让火属性和冰属性的招式伤害减半。"
+	],
+	"category_name": "种子宝可梦",
+	"evolution": [
+		"001",
+		"002",
+		"003"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"据说充足的营养和阳光会让花儿的颜色变得更加鲜艳。花香会治愈人心。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8089b"
+	},
+	"zukan_id": "004",
+	"zukan_sub_id": 0,
+	"pokemon_name": "小火龙",
+	"pokemon_sub_name": "",
+	"weight": 8.5,
+	"height": 0.6,
+	"file_name": "/img/pm/d0ee81f16175c97770192fb691fdda8da1f4f349.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"猛火"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，火属性的招式威力会提高。"
+	],
+	"category_name": "蜥蜴宝可梦",
+	"evolution": [
+		"004",
+		"005",
+		"006"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"尾巴上的火焰代表着它的心情。当它开心时，火焰会摇曳晃动。而当它生气时，火焰就会剧烈燃烧。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8089c"
+	},
+	"zukan_id": "005",
+	"zukan_sub_id": 0,
+	"pokemon_name": "火恐龙",
+	"pokemon_sub_name": "",
+	"weight": 19,
+	"height": 1.1,
+	"file_name": "/img/pm/285395ca77d82861fd30cea64567021a50c1169c.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"猛火"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，火属性的招式威力会提高。"
+	],
+	"category_name": "火焰宝可梦",
+	"evolution": [
+		"004",
+		"005",
+		"006"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"它会用锋利的爪子无情地打倒对手。如果遇到强敌，它就会兴奋不已，尾巴上会燃起蓝白色的火焰。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8089d"
+	},
+	"zukan_id": "006",
+	"zukan_sub_id": 0,
+	"pokemon_name": "喷火龙",
+	"pokemon_sub_name": "",
+	"weight": 90.5,
+	"height": 1.7,
+	"file_name": "/img/pm/2050f1fd1283f473d7d048f8631712e7e003f802.png",
+	"pokemon_type_id": "fire,flying",
+	"pokemon_type_name": "火,飞行",
+	"abilities_name": [
+		"猛火"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，火属性的招式威力会提高。"
+	],
+	"category_name": "火焰宝可梦",
+	"evolution": [
+		"004",
+		"005",
+		"006"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"会在空中飞来飞去寻找强大的对手。对于比它弱小的对手，它不会吐出那可熔化一切的高温火焰。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "flying",
+			"name": "飞行"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8089e"
+	},
+	"zukan_id": "006",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级喷火龙Ｘ",
+	"pokemon_sub_name": "",
+	"weight": 110.5,
+	"height": 1.7,
+	"file_name": "/img/pm/ca3db4aad5c85a525d9be86852b26db1db7a22c0.png",
+	"pokemon_type_id": "dragon,fire",
+	"pokemon_type_name": "龙,火",
+	"abilities_name": [
+		"硬爪"
+	],
+	"ability_info": [
+		"接触到对手的招式威力会提高。"
+	],
+	"category_name": "火焰宝可梦",
+	"evolution": [
+		"004",
+		"005",
+		"006"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			7
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"会在空中飞来飞去寻找强大的对手。对于比它弱小的对手，它不会吐出那可熔化一切的高温火焰。"
+	],
+	"type": [
+		{
+			"id": "dragon",
+			"name": "龙"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "dragon",
+			"name": "龙"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8089f"
+	},
+	"zukan_id": "006",
+	"zukan_sub_id": 2,
+	"pokemon_name": "超级喷火龙Ｙ",
+	"pokemon_sub_name": "",
+	"weight": 100.5,
+	"height": 1.7,
+	"file_name": "/img/pm/0aa78a0061bda9d88cbb0bbf739cd9cc56522fe9.png",
+	"pokemon_type_id": "fire,flying",
+	"pokemon_type_name": "火,飞行",
+	"abilities_name": [
+		"日照"
+	],
+	"ability_info": [
+		"出场时，会将天气变为晴朗。"
+	],
+	"category_name": "火焰宝可梦",
+	"evolution": [
+		"004",
+		"005",
+		"006"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			8
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"会在空中飞来飞去寻找强大的对手。对于比它弱小的对手，它不会吐出那可熔化一切的高温火焰。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "flying",
+			"name": "飞行"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a0"
+	},
+	"zukan_id": "007",
+	"zukan_sub_id": 0,
+	"pokemon_name": "杰尼龟",
+	"pokemon_sub_name": "",
+	"weight": 9,
+	"height": 0.5,
+	"file_name": "/img/pm/5794f0251b1180998d72d1f8568239620ff5279c.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"激流"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，水属性的招式威力会提高。"
+	],
+	"category_name": "小龟宝可梦",
+	"evolution": [
+		"007",
+		"008",
+		"009"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"甲壳的作用不仅仅是用来保护自己。它圆润的外形和表面的沟槽会减小水的阻力，使它能快速地游动。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a1"
+	},
+	"zukan_id": "008",
+	"zukan_sub_id": 0,
+	"pokemon_name": "卡咪龟",
+	"pokemon_sub_name": "",
+	"weight": 22.5,
+	"height": 1,
+	"file_name": "/img/pm/a3bc17e6215031332462cc64e59b7922ddd14b91.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"激流"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，水属性的招式威力会提高。"
+	],
+	"category_name": "龟宝可梦",
+	"evolution": [
+		"007",
+		"008",
+		"009"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"长满蓬松毛发的大尾巴的颜色，会随着年龄的增长而越变越深。甲壳上的伤痕是强者的证明。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a2"
+	},
+	"zukan_id": "009",
+	"zukan_sub_id": 0,
+	"pokemon_name": "水箭龟",
+	"pokemon_sub_name": "",
+	"weight": 85.5,
+	"height": 1.6,
+	"file_name": "/img/pm/2fe157db59153af8abd636ab03c7df6f28b08242.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"激流"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，水属性的招式威力会提高。"
+	],
+	"category_name": "甲壳宝可梦",
+	"evolution": [
+		"007",
+		"008",
+		"009"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"甲壳上的喷射口能够精准地瞄准目标。打出的水弹可以命中５０米外的空罐子。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a3"
+	},
+	"zukan_id": "009",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级水箭龟",
+	"pokemon_sub_name": "",
+	"weight": 101.1,
+	"height": 1.6,
+	"file_name": "/img/pm/00186af714a048895ba8116e71b08671c3cfb8f5.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"超级发射器"
+	],
+	"ability_info": [
+		"波动和波导类招式的威力会提高。"
+	],
+	"category_name": "甲壳宝可梦",
+	"evolution": [
+		"007",
+		"008",
+		"009"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			7
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"甲壳上的喷射口能够精准地瞄准目标。打出的水弹可以命中５０米外的空罐子。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a4"
+	},
+	"zukan_id": "010",
+	"zukan_sub_id": 0,
+	"pokemon_name": "绿毛虫",
+	"pokemon_sub_name": "",
+	"weight": 2.9,
+	"height": 0.3,
+	"file_name": "/img/pm/68f0cec6bcba20a0c53db3d8cfce81bd319d2c82.png",
+	"pokemon_type_id": "bug",
+	"pokemon_type_name": "虫",
+	"abilities_name": [
+		"鳞粉"
+	],
+	"ability_info": [
+		"被鳞粉守护着，不会受到招式的追加效果影响。"
+	],
+	"category_name": "虫宝宝宝可梦",
+	"evolution": [
+		"010",
+		"011",
+		"012"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"身体软绵绵的，也没什么力气。在自然界，它的命运就是作为猎物而被不断捕食。",
+		"或许是想要尽快长大，它的食欲非常旺盛，每天能吃掉１００片叶子。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a5"
+	},
+	"zukan_id": "011",
+	"zukan_sub_id": 0,
+	"pokemon_name": "铁甲蛹",
+	"pokemon_sub_name": "",
+	"weight": 9.9,
+	"height": 0.7,
+	"file_name": "/img/pm/05fd4676fa4a4b58288510a97a5211e066e02464.png",
+	"pokemon_type_id": "bug",
+	"pokemon_type_name": "虫",
+	"abilities_name": [
+		"蜕皮"
+	],
+	"ability_info": [
+		"通过蜕去身上的皮，有时会治愈异常状态。"
+	],
+	"category_name": "蛹宝可梦",
+	"evolution": [
+		"010",
+		"011",
+		"012"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			1
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"外壳非常坚硬，即使受到小笃儿的啄击也能安然无恙，但壳里的身体会因晃动而流出来。",
+		"壳里面是黏糊糊的液体。为了准备迎接进化，正在不断地更新体内的细胞。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a6"
+	},
+	"zukan_id": "012",
+	"zukan_sub_id": 0,
+	"pokemon_name": "巴大蝶",
+	"pokemon_sub_name": "",
+	"weight": 32,
+	"height": 1.1,
+	"file_name": "/img/pm/eacd20285cb634ba9fea41fc0fa13871c2fcbc66.png",
+	"pokemon_type_id": "bug,flying",
+	"pokemon_type_name": "虫,飞行",
+	"abilities_name": [
+		"复眼"
+	],
+	"ability_info": [
+		"因为拥有复眼，招式的命中率会提高。"
+	],
+	"category_name": "蝴蝶宝可梦",
+	"evolution": [
+		"010",
+		"011",
+		"012"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"喜食美丽花儿的花蜜。会在花圃里和萌虻展开激烈的领地之争。",
+		"翅膀上覆盖着的鳞粉有剧毒。如果发现有鸟宝可梦要袭击绿毛虫，就会撒出鳞粉将它赶跑。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "flying",
+			"name": "飞行"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a7"
+	},
+	"zukan_id": "013",
+	"zukan_sub_id": 0,
+	"pokemon_name": "独角虫",
+	"pokemon_sub_name": "",
+	"weight": 3.2,
+	"height": 0.3,
+	"file_name": "/img/pm/5ae74d403ec682eaf13e066850afd4b0c20d85f7.png",
+	"pokemon_type_id": "bug,poison",
+	"pokemon_type_name": "虫,毒",
+	"abilities_name": [
+		"鳞粉"
+	],
+	"ability_info": [
+		"被鳞粉守护着，不会受到招式的追加效果影响。"
+	],
+	"category_name": "毛毛虫宝可梦",
+	"evolution": [
+		"013",
+		"014",
+		"015"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"有着非常灵敏的嗅觉。能用大大的红鼻子闻出自己喜欢吃和不喜欢吃的叶子。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a8"
+	},
+	"zukan_id": "014",
+	"zukan_sub_id": 0,
+	"pokemon_name": "铁壳蛹",
+	"pokemon_sub_name": "",
+	"weight": 10,
+	"height": 0.6,
+	"file_name": "/img/pm/dd41f31a3c97f1f9d998361b125362584873157b.png",
+	"pokemon_type_id": "bug,poison",
+	"pokemon_type_name": "虫,毒",
+	"abilities_name": [
+		"蜕皮"
+	],
+	"ability_info": [
+		"通过蜕去身上的皮，有时会治愈异常状态。"
+	],
+	"category_name": "蛹宝可梦",
+	"evolution": [
+		"013",
+		"014",
+		"015"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			1
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"虽然挂在树上几乎一动不动，但体内却在为进化而忙碌地准备着。那证据就是它的身体会变得很热。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808a9"
+	},
+	"zukan_id": "015",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大针蜂",
+	"pokemon_sub_name": "",
+	"weight": 29.5,
+	"height": 1,
+	"file_name": "/img/pm/70f4206271b72492c9ba71d708d6183a80ba0e96.png",
+	"pokemon_type_id": "bug,poison",
+	"pokemon_type_name": "虫,毒",
+	"abilities_name": [
+		"虫之预感"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，虫属性的招式威力会提高。"
+	],
+	"category_name": "毒蜂宝可梦",
+	"evolution": [
+		"013",
+		"014",
+		"015"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"大针蜂的领地意识非常强，所以为了安全起见，不要接近它的住处。它一生气，就会群起而攻之。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808aa"
+	},
+	"zukan_id": "015",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级大针蜂",
+	"pokemon_sub_name": "",
+	"weight": 40.5,
+	"height": 1.4,
+	"file_name": "/img/pm/e12ce48ab99b2df6fbbc1e97038c4f6e192d09d7.png",
+	"pokemon_type_id": "bug,poison",
+	"pokemon_type_name": "虫,毒",
+	"abilities_name": [
+		"适应力"
+	],
+	"ability_info": [
+		"与自身同属性的招式威力会提高。"
+	],
+	"category_name": "毒蜂宝可梦",
+	"evolution": [
+		"013",
+		"014",
+		"015"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			8
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			8
+		]
+	],
+	"story": [
+		"大针蜂的领地意识非常强，所以为了安全起见，不要接近它的住处。它一生气，就会群起而攻之。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ab"
+	},
+	"zukan_id": "016",
+	"zukan_sub_id": 0,
+	"pokemon_name": "波波",
+	"pokemon_sub_name": "",
+	"weight": 1.8,
+	"height": 0.3,
+	"file_name": "/img/pm/0e7c6e616404c683f00701b591eeab56e465641a.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"锐利目光",
+		"蹒跚"
+	],
+	"ability_info": [
+		"多亏了锐利的目光，命中率不会被降低。",
+		"在混乱状态时，闪避率会提高。"
+	],
+	"category_name": "小鸟宝可梦",
+	"evolution": [
+		"016",
+		"017",
+		"018"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"因为方向感非常好，所以无论离自己的巢穴多远，都能毫不迷路地飞回来。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ac"
+	},
+	"zukan_id": "017",
+	"zukan_sub_id": 0,
+	"pokemon_name": "比比鸟",
+	"pokemon_sub_name": "",
+	"weight": 30,
+	"height": 1.1,
+	"file_name": "/img/pm/a2935587b7c61e6e6da88da3578d700c133246e5.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"锐利目光",
+		"蹒跚"
+	],
+	"ability_info": [
+		"多亏了锐利的目光，命中率不会被降低。",
+		"在混乱状态时，闪避率会提高。"
+	],
+	"category_name": "鸟宝可梦",
+	"evolution": [
+		"016",
+		"017",
+		"018"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"会飞在空中巡视自己广阔的领地。要是有谁胆敢侵犯它的领地，它就会毫不留情地用利爪狠狠惩治一番。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ad"
+	},
+	"zukan_id": "018",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大比鸟",
+	"pokemon_sub_name": "",
+	"weight": 39.5,
+	"height": 1.5,
+	"file_name": "/img/pm/01e13954dff668c1420407c98b308c81b83f6dda.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"锐利目光",
+		"蹒跚"
+	],
+	"ability_info": [
+		"多亏了锐利的目光，命中率不会被降低。",
+		"在混乱状态时，闪避率会提高。"
+	],
+	"category_name": "鸟宝可梦",
+	"evolution": [
+		"016",
+		"017",
+		"018"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"有着靓丽羽毛的宝可梦。有很多训练家因拜倒在它美丽的头羽下而来培育大比鸟。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ae"
+	},
+	"zukan_id": "018",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级大比鸟",
+	"pokemon_sub_name": "",
+	"weight": 50.5,
+	"height": 2.2,
+	"file_name": "/img/pm/dd6ab4ce8e7d05fb74e50cf66764e3ed8e11a097.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"无防守"
+	],
+	"ability_info": [
+		"由于无防守战术，双方使出的招式都必定会击中。"
+	],
+	"category_name": "鸟宝可梦",
+	"evolution": [
+		"016",
+		"017",
+		"018"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			7
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"有着靓丽羽毛的宝可梦。有很多训练家因拜倒在它美丽的头羽下而来培育大比鸟。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808af"
+	},
+	"zukan_id": "019",
+	"zukan_sub_id": 0,
+	"pokemon_name": "小拉达",
+	"pokemon_sub_name": "",
+	"weight": 3.5,
+	"height": 0.3,
+	"file_name": "/img/pm/3e4b38ab7545ebd938154d9aed9502cb068569d6.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"毅力",
+		"逃跑"
+	],
+	"ability_info": [
+		"如果变为异常状态，会拿出毅力，攻击会提高。",
+		"一定能从野生宝可梦那儿逃走。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"019",
+		"020"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"虽是常见的宝可梦，但也不能掉以轻心。锋利的门牙甚至连坚硬的木材都能轻易咬断。",
+		"门牙会终生生长。但要是长得太长，就会因无法进食而饿死。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b0"
+	},
+	"zukan_id": "019",
+	"zukan_sub_id": 1,
+	"pokemon_name": "小拉达",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 3.8,
+	"height": 0.3,
+	"file_name": "/img/pm/3567693e3479fb0cf15b9ec84ee8a033aa7b4310.png",
+	"pokemon_type_id": "dark,normal",
+	"pokemon_type_name": "恶,一般",
+	"abilities_name": [
+		"贪吃鬼",
+		"活力"
+	],
+	"ability_info": [
+		"原本ＨＰ变得很少时才会吃树果，在ＨＰ还有一半时就会把它吃掉。",
+		"自己的攻击变高，但命中率会降低。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"019",
+		"020"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"为了寻找食物，会在每天夜里潜入民宅。它的大量出现已经成为了社会问题。",
+		"只对新鲜的东西感兴趣。如果带它去买东西，在挑选食材时会很有帮助。"
+	],
+	"type": [
+		{
+			"id": "dark",
+			"name": "恶"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b1"
+	},
+	"zukan_id": "020",
+	"zukan_sub_id": 0,
+	"pokemon_name": "拉达",
+	"pokemon_sub_name": "",
+	"weight": 18.5,
+	"height": 0.7,
+	"file_name": "/img/pm/e97c62e4e4b46017be60806d00f4d389d003f115.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"毅力",
+		"逃跑"
+	],
+	"ability_info": [
+		"如果变为异常状态，会拿出毅力，攻击会提高。",
+		"一定能从野生宝可梦那儿逃走。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"019",
+		"020"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"胡须是用来保持平衡的重要器官。即使感情再好，只要摸了它的胡须，它就会发火咬你。",
+		"据说会用后脚上小小的蹼泅水渡海，穿越岛屿来躲避敌人的追击。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b2"
+	},
+	"zukan_id": "020",
+	"zukan_sub_id": 1,
+	"pokemon_name": "拉达",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 25.5,
+	"height": 0.7,
+	"file_name": "/img/pm/a30454b7040a4a517bfe0914777e2e7c045f6c65.png",
+	"pokemon_type_id": "dark,normal",
+	"pokemon_type_name": "恶,一般",
+	"abilities_name": [
+		"贪吃鬼",
+		"活力"
+	],
+	"ability_info": [
+		"原本ＨＰ变得很少时才会吃树果，在ＨＰ还有一半时就会把它吃掉。",
+		"自己的攻击变高，但命中率会降低。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"019",
+		"020"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"会率领小拉达们组建群体。群体之间的关系不好，会围绕觅食地激烈地争斗。",
+		"性格非常贪婪。巢穴里满是让小拉达们收集起来的，吃都吃不完的食物。"
+	],
+	"type": [
+		{
+			"id": "dark",
+			"name": "恶"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b3"
+	},
+	"zukan_id": "021",
+	"zukan_sub_id": 0,
+	"pokemon_name": "烈雀",
+	"pokemon_sub_name": "",
+	"weight": 2,
+	"height": 0.3,
+	"file_name": "/img/pm/e815cb4b8ba9c2d0841dfa364c87164880944e3a.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"锐利目光"
+	],
+	"ability_info": [
+		"多亏了锐利的目光，命中率不会被降低。"
+	],
+	"category_name": "小鸟宝可梦",
+	"evolution": [
+		"021",
+		"022"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"翅膀短，无法飞远。会跳来跳去忙个不停地啄食虫宝可梦。",
+		"生性鲁莽，只要是为了保护自己的领地，即便对手是大型宝可梦，也仍会冲向对手。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b4"
+	},
+	"zukan_id": "022",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大嘴雀",
+	"pokemon_sub_name": "",
+	"weight": 38,
+	"height": 1.2,
+	"file_name": "/img/pm/8b326a6f77b73b3c250ba95f3a97fc21b28c8f4b.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"锐利目光"
+	],
+	"ability_info": [
+		"多亏了锐利的目光，命中率不会被降低。"
+	],
+	"category_name": "鸟嘴宝可梦",
+	"evolution": [
+		"021",
+		"022"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"在阿罗拉，它的猎物是鱼宝可梦。能看到它盘旋在海上觅食的景象。",
+		"在大嘴雀的领地上拿着食物走动可是相当危险的。食物转眼间就会被抢走。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b5"
+	},
+	"zukan_id": "023",
+	"zukan_sub_id": 0,
+	"pokemon_name": "阿柏蛇",
+	"pokemon_sub_name": "",
+	"weight": 6.9,
+	"height": 2,
+	"file_name": "/img/pm/ad90ec632849d032615d707ebe8ad741651eee06.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"威吓",
+		"蜕皮"
+	],
+	"ability_info": [
+		"出场时威吓对手，让其退缩，降低对手的攻击。",
+		"通过蜕去身上的皮，有时会治愈异常状态。"
+	],
+	"category_name": "蛇宝可梦",
+	"evolution": [
+		"023",
+		"024"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"它喜食鸟宝可梦的蛋。因为不咀嚼就整个吞下，所以有时会被噎住而昏倒。",
+		"甚至可以通过让颚脱位来吞食比自己更大的猎物。进食后就会蜷缩起身体进行休息。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b6"
+	},
+	"zukan_id": "024",
+	"zukan_sub_id": 0,
+	"pokemon_name": "阿柏怪",
+	"pokemon_sub_name": "",
+	"weight": 65,
+	"height": 3.5,
+	"file_name": "/img/pm/eb3c14ed44c1e4a2ba4c2d7970cddf07cd8ef67f.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"威吓",
+		"蜕皮"
+	],
+	"ability_info": [
+		"出场时威吓对手，让其退缩，降低对手的攻击。",
+		"通过蜕去身上的皮，有时会治愈异常状态。"
+	],
+	"category_name": "眼镜蛇宝可梦",
+	"evolution": [
+		"023",
+		"024"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"用腹部的花纹让对手畏缩后，就会快速地用身体勒住对手，并等着对手的心跳停止。",
+		"根据最新的研究显示，它们腹部的花纹有着２０种以上不同的图案。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b7"
+	},
+	"zukan_id": "025",
+	"zukan_sub_id": 0,
+	"pokemon_name": "皮卡丘",
+	"pokemon_sub_name": "",
+	"weight": 6,
+	"height": 0.4,
+	"file_name": "/img/pm/2b3f6ff00db7a1efae21d85cfb8995eaff2da8d8.png",
+	"pokemon_type_id": "electric",
+	"pokemon_type_name": "电",
+	"abilities_name": [
+		"静电"
+	],
+	"ability_info": [
+		"身上带有静电，有时会让接触到的对手麻痹。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"172",
+		"025",
+		"026 026"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"会在睡着时用脸颊上的袋子制造电力。如果睡眠不足，就只能放出微弱的电力。",
+		"有积存电力的特质。在皮卡丘群居的森林里会落雷不断，十分危险。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b8"
+	},
+	"zukan_id": "026",
+	"zukan_sub_id": 0,
+	"pokemon_name": "雷丘",
+	"pokemon_sub_name": "",
+	"weight": 30,
+	"height": 0.8,
+	"file_name": "/img/pm/9c28defa939e230800ec0d0c421d9f82c60df77a.png",
+	"pokemon_type_id": "electric",
+	"pokemon_type_name": "电",
+	"abilities_name": [
+		"静电"
+	],
+	"ability_info": [
+		"身上带有静电，有时会让接触到的对手麻痹。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"172",
+		"025",
+		"026 026"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"因为有很多训练家喜欢它进化前的皮卡丘模样，所以这种宝可梦十分少见。",
+		"随着电力在体内的积聚，它会越发地具有攻击性。也有说法讲到其实电力就是它的压力。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808b9"
+	},
+	"zukan_id": "026",
+	"zukan_sub_id": 1,
+	"pokemon_name": "雷丘",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 21,
+	"height": 0.7,
+	"file_name": "/img/pm/8be55a3ff2b24890fac0b9e2415dda9d0f893c1f.png",
+	"pokemon_type_id": "electric,psychic",
+	"pokemon_type_name": "电,超能力",
+	"abilities_name": [
+		"冲浪之尾"
+	],
+	"ability_info": [
+		"电气场地时，速度会变为２倍。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"172",
+		"025",
+		"026 026"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"如果揉搓它的脸颊，就会飘出一股甜甜的芳香。但是会有轻微的麻痹感。",
+		"会骑上集中有精神力量的尾巴，像滑行一样移动。有着“陆地冲浪手”这一别名。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ba"
+	},
+	"zukan_id": "027",
+	"zukan_sub_id": 0,
+	"pokemon_name": "穿山鼠",
+	"pokemon_sub_name": "",
+	"weight": 12,
+	"height": 0.6,
+	"file_name": "/img/pm/f5fcf7a292a180320138ace7235f8a2c16f6594a.png",
+	"pokemon_type_id": "ground",
+	"pokemon_type_name": "地面",
+	"abilities_name": [
+		"沙隐"
+	],
+	"ability_info": [
+		"在沙暴的时候，闪避率会提高。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"027",
+		"028"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"如果皮肤因湿气而发胀，它就会前往火山。会趴在地热温度很高的地面上烘干皮肤。",
+		"栖息在雨量稀少的土地上。遇到危险就会蜷缩起身体，并以此来保护自己柔弱的腹部。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	],
+	"weakness": [
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808bb"
+	},
+	"zukan_id": "027",
+	"zukan_sub_id": 1,
+	"pokemon_name": "穿山鼠",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 40,
+	"height": 0.7,
+	"file_name": "/img/pm/d9ea1612a6ec53ba12e2d9abe28f99e66021bde1.png",
+	"pokemon_type_id": "ice,steel",
+	"pokemon_type_name": "冰,钢",
+	"abilities_name": [
+		"雪隐"
+	],
+	"ability_info": [
+		"冰雹天气时，闪避率会提高。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"027",
+		"028"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"背上的皮肤硬如钢铁。因为柔软的肚子会成为攻击目标，所以它会死命地趴在地上。",
+		"在逃离火山喷发的途中移居到了雪山上。冰甲壳硬如钢铁。"
+	],
+	"type": [
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808bc"
+	},
+	"zukan_id": "028",
+	"zukan_sub_id": 0,
+	"pokemon_name": "穿山王",
+	"pokemon_sub_name": "",
+	"weight": 29.5,
+	"height": 1,
+	"file_name": "/img/pm/d00d72f082b7dae546fa8bd5cf09fcfe53ffcae8.png",
+	"pokemon_type_id": "ground",
+	"pokemon_type_name": "地面",
+	"abilities_name": [
+		"沙隐"
+	],
+	"ability_info": [
+		"在沙暴的时候，闪避率会提高。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"027",
+		"028"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"得益于粗粗的爪子，所以它很擅长爬树。也有很多穿山王会直接把树上当成睡觉的地方。",
+		"爪子和角经常会折断。折断的爪子和角会被制作成用来耕作土地的用具。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	],
+	"weakness": [
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808bd"
+	},
+	"zukan_id": "028",
+	"zukan_sub_id": 1,
+	"pokemon_name": "穿山王",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 55,
+	"height": 1.2,
+	"file_name": "/img/pm/cc154af4dcd20d14aba494a6a679f528bb9f3d6d.png",
+	"pokemon_type_id": "ice,steel",
+	"pokemon_type_name": "冰,钢",
+	"abilities_name": [
+		"雪隐"
+	],
+	"ability_info": [
+		"冰雹天气时，闪避率会提高。"
+	],
+	"category_name": "鼠宝可梦",
+	"evolution": [
+		"027",
+		"028"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"很久以前曾栖息在沙漠里。会用利爪牢牢地插入山体，即便是攀爬冰山也不会滑落。",
+		"能在雪原上奔驰。为了将雪拨开，它的爪子长得又粗又尖，十分发达，"
+	],
+	"type": [
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808be"
+	},
+	"zukan_id": "029",
+	"zukan_sub_id": 0,
+	"pokemon_name": "尼多兰",
+	"pokemon_sub_name": "",
+	"weight": 7,
+	"height": 0.4,
+	"file_name": "/img/pm/14179c8ab9c2003fc5b27a29e91e4cd195283d52.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"毒刺",
+		"斗争心"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手变为中毒状态。",
+		"面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。"
+	],
+	"category_name": "毒针宝可梦",
+	"evolution": [
+		"029",
+		"030",
+		"031"
+	],
+	"gender_name": [
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"人们认为它是为了保护自己娇小的身体才长出了越来越强的毒针。生气后就会从角尖放出剧毒。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808bf"
+	},
+	"zukan_id": "030",
+	"zukan_sub_id": 0,
+	"pokemon_name": "尼多娜",
+	"pokemon_sub_name": "",
+	"weight": 20,
+	"height": 0.8,
+	"file_name": "/img/pm/fed980fd2341745923812e9dcd88a039aaaf36ea.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"毒刺",
+		"斗争心"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手变为中毒状态。",
+		"面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。"
+	],
+	"category_name": "毒针宝可梦",
+	"evolution": [
+		"029",
+		"030",
+		"031"
+	],
+	"gender_name": [
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"和伙伴以及家人在一起的时候，为了避免伤及彼此会把刺收起来。离开伙伴后，好像就会变得不安起来。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c0"
+	},
+	"zukan_id": "031",
+	"zukan_sub_id": 0,
+	"pokemon_name": "尼多后",
+	"pokemon_sub_name": "",
+	"weight": 60,
+	"height": 1.3,
+	"file_name": "/img/pm/5174a41a9db00baf5dd664c92a12254b0baa5fde.png",
+	"pokemon_type_id": "ground,poison",
+	"pokemon_type_name": "地面,毒",
+	"abilities_name": [
+		"毒刺",
+		"斗争心"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手变为中毒状态。",
+		"面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。"
+	],
+	"category_name": "钻锥宝可梦",
+	"evolution": [
+		"029",
+		"030",
+		"031"
+	],
+	"gender_name": [
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"擅长利用长满坚硬鳞片的身体将对手撞得弹飞起来的攻击。在保护幼崽的时候最为强大。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c1"
+	},
+	"zukan_id": "032",
+	"zukan_sub_id": 0,
+	"pokemon_name": "尼多朗",
+	"pokemon_sub_name": "",
+	"weight": 9,
+	"height": 0.5,
+	"file_name": "/img/pm/237579eaf2141edad61d647c62f074d53653337b.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"毒刺",
+		"斗争心"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手变为中毒状态。",
+		"面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。"
+	],
+	"category_name": "毒针宝可梦",
+	"evolution": [
+		"032",
+		"033",
+		"034"
+	],
+	"gender_name": [
+		"male"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"牵动耳朵的肌肉十分发达，可以随意将耳朵转动至任何方向。是无论多小的声音也不会听漏的宝可梦。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c2"
+	},
+	"zukan_id": "033",
+	"zukan_sub_id": 0,
+	"pokemon_name": "尼多力诺",
+	"pokemon_sub_name": "",
+	"weight": 19.5,
+	"height": 0.9,
+	"file_name": "/img/pm/f3d8e45646fb05516dff845922c3d62d9aa33cbe.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"毒刺",
+		"斗争心"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手变为中毒状态。",
+		"面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。"
+	],
+	"category_name": "毒针宝可梦",
+	"evolution": [
+		"032",
+		"033",
+		"034"
+	],
+	"gender_name": [
+		"male"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"有着比钻石还要坚硬的角。感觉到敌人的气息时，背上的刺就会一起竖起来全力迎敌。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c3"
+	},
+	"zukan_id": "034",
+	"zukan_sub_id": 0,
+	"pokemon_name": "尼多王",
+	"pokemon_sub_name": "",
+	"weight": 62,
+	"height": 1.4,
+	"file_name": "/img/pm/ce24d9eb27f4e554ea5bd29840a35957f7bd9d30.png",
+	"pokemon_type_id": "ground,poison",
+	"pokemon_type_name": "地面,毒",
+	"abilities_name": [
+		"毒刺",
+		"斗争心"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手变为中毒状态。",
+		"面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。"
+	],
+	"category_name": "钻锥宝可梦",
+	"evolution": [
+		"032",
+		"033",
+		"034"
+	],
+	"gender_name": [
+		"male"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"粗尾巴的挥击有着能将坚固铁塔都折断的惊人破坏力。一旦陷入狂暴就拿它没办法了。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c4"
+	},
+	"zukan_id": "035",
+	"zukan_sub_id": 0,
+	"pokemon_name": "皮皮",
+	"pokemon_sub_name": "",
+	"weight": 7.5,
+	"height": 0.6,
+	"file_name": "/img/pm/18e9dc86ced1320d6846f2c192c4eb04e517963a.png",
+	"pokemon_type_id": "fairy",
+	"pokemon_type_name": "妖精",
+	"abilities_name": [
+		"迷人之躯",
+		"魔法防守"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手着迷。",
+		"不会受到攻击以外的伤害。"
+	],
+	"category_name": "妖精宝可梦",
+	"evolution": [
+		"173",
+		"035",
+		"036"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"沐浴着月光的翅膀会发出淡淡的光辉。即便不挥动翅膀，它也能浮在空中翩翩起舞。",
+		"虽然深受人们的喜爱，但由于数量稀少故而十分珍贵。如果随便把它带出来炫耀，就会被小偷盯上哦。"
+	],
+	"type": [
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	],
+	"weakness": [
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c5"
+	},
+	"zukan_id": "036",
+	"zukan_sub_id": 0,
+	"pokemon_name": "皮可西",
+	"pokemon_sub_name": "",
+	"weight": 40,
+	"height": 1.3,
+	"file_name": "/img/pm/1865f85f9e417522f8de1a239fbff27f2106783b.png",
+	"pokemon_type_id": "fairy",
+	"pokemon_type_name": "妖精",
+	"abilities_name": [
+		"迷人之躯",
+		"魔法防守"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手着迷。",
+		"不会受到攻击以外的伤害。"
+	],
+	"category_name": "妖精宝可梦",
+	"evolution": [
+		"173",
+		"035",
+		"036"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"也有科学家认为，它之所以会在满月的晚上盯着夜空看，是因为它患上了思乡病。",
+		"连１公里外针落地的声音都能听到，所以它生活在鲜有人或宝可梦出入的深山里。"
+	],
+	"type": [
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	],
+	"weakness": [
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c6"
+	},
+	"zukan_id": "037",
+	"zukan_sub_id": 0,
+	"pokemon_name": "六尾",
+	"pokemon_sub_name": "",
+	"weight": 9.9,
+	"height": 0.6,
+	"file_name": "/img/pm/f285c634efd141918f6ad066a6f59c20746d9050.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"引火"
+	],
+	"ability_info": [
+		"受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。"
+	],
+	"category_name": "狐狸宝可梦",
+	"evolution": [
+		"037",
+		"038"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"会操纵火球捕捉猎物。如果从小就开始培育的话，它就会像小狗宝可梦那样亲近人哦。",
+		"因漂亮的尾巴而深受人们喜爱。但是，如果不经常给其梳理毛发，很快就会变得全是毛球。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c7"
+	},
+	"zukan_id": "037",
+	"zukan_sub_id": 1,
+	"pokemon_name": "六尾",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 9.9,
+	"height": 0.6,
+	"file_name": "/img/pm/89719dbcbddd11a1e6bc5f4366e00910a04eaf9f.png",
+	"pokemon_type_id": "ice",
+	"pokemon_type_name": "冰",
+	"abilities_name": [
+		"雪隐"
+	],
+	"ability_info": [
+		"冰雹天气时，闪避率会提高。"
+	],
+	"category_name": "狐狸宝可梦",
+	"evolution": [
+		"037",
+		"038"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"会成群结队地互助生活。能以零下５０度的吐息将猎物冻结实后再进食。",
+		"如果觉得可爱而随便靠近它的话，群体中的老大九尾就会出现，并把你冰封起来。"
+	],
+	"type": [
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c8"
+	},
+	"zukan_id": "038",
+	"zukan_sub_id": 0,
+	"pokemon_name": "九尾",
+	"pokemon_sub_name": "",
+	"weight": 19.9,
+	"height": 1.1,
+	"file_name": "/img/pm/cc96e6a4eee980724ebd725bb8785334d3290074.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"引火"
+	],
+	"ability_info": [
+		"受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。"
+	],
+	"category_name": "狐狸宝可梦",
+	"evolution": [
+		"037",
+		"038"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"非常聪明的宝可梦。能从口中吐出摇曳的火焰来使猎物进入催眠状态，继而展开袭击。",
+		"性格执拗，爱记仇。一旦遭到它的怨恨，它便会在１０００年间不断作祟，连对方的子孙都不放过。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808c9"
+	},
+	"zukan_id": "038",
+	"zukan_sub_id": 1,
+	"pokemon_name": "九尾",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 19.9,
+	"height": 1.1,
+	"file_name": "/img/pm/397b20ea73c8358185d6f1d2971b5825b0cb0baf.png",
+	"pokemon_type_id": "fairy,ice",
+	"pokemon_type_name": "妖精,冰",
+	"abilities_name": [
+		"雪隐"
+	],
+	"ability_info": [
+		"冰雹天气时，闪避率会提高。"
+	],
+	"category_name": "狐狸宝可梦",
+	"evolution": [
+		"037",
+		"038"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"据说九尾栖息的山中会有神仙来访，所以过去是禁止上山的。",
+		"它之所以会将雪山中迷路的人们带到山脚下，是因为想快点赶走他们。"
+	],
+	"type": [
+		{
+			"id": "fairy",
+			"name": "妖精"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	],
+	"weakness": [
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ca"
+	},
+	"zukan_id": "039",
+	"zukan_sub_id": 0,
+	"pokemon_name": "胖丁",
+	"pokemon_sub_name": "",
+	"weight": 5.5,
+	"height": 0.5,
+	"file_name": "/img/pm/7a2bec0dd522d66353f0cf3df9148070456a3349.png",
+	"pokemon_type_id": "fairy,normal",
+	"pokemon_type_name": "妖精,一般",
+	"abilities_name": [
+		"好胜",
+		"迷人之躯"
+	],
+	"ability_info": [
+		"如果能力被降低，特攻就会大幅提高。",
+		"有时会让接触到自己的对手着迷。"
+	],
+	"category_name": "气球宝可梦",
+	"evolution": [
+		"174",
+		"039",
+		"040"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			5
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			1
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			1
+		]
+	],
+	"story": [
+		"栖息的地区不同，它唱的歌也完全不同。里面甚至还有一些歌听起来像是在大喊大叫。",
+		"可以在百货商店的寝具区买到收录有胖丁那神奇摇篮曲的ＣＤ。"
+	],
+	"type": [
+		{
+			"id": "fairy",
+			"name": "妖精"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808cb"
+	},
+	"zukan_id": "040",
+	"zukan_sub_id": 0,
+	"pokemon_name": "胖可丁",
+	"pokemon_sub_name": "",
+	"weight": 12,
+	"height": 1,
+	"file_name": "/img/pm/b3724395d41de1d0def948966c69148bd9f0f9c1.png",
+	"pokemon_type_id": "fairy,normal",
+	"pokemon_type_name": "妖精,一般",
+	"abilities_name": [
+		"好胜",
+		"迷人之躯"
+	],
+	"ability_info": [
+		"如果能力被降低，特攻就会大幅提高。",
+		"有时会让接触到自己的对手着迷。"
+	],
+	"category_name": "气球宝可梦",
+	"evolution": [
+		"174",
+		"039",
+		"040"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			5
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"生起气来就会死命地吸气让自己不断膨胀。有时甚至能胀大到原来的２０倍。",
+		"富有弹性的身体和细腻的毛皮很受人们的喜爱。抱着它睡会感觉很惬意。"
+	],
+	"type": [
+		{
+			"id": "fairy",
+			"name": "妖精"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808cc"
+	},
+	"zukan_id": "041",
+	"zukan_sub_id": 0,
+	"pokemon_name": "超音蝠",
+	"pokemon_sub_name": "",
+	"weight": 7.5,
+	"height": 0.8,
+	"file_name": "/img/pm/5d54b9d9cefa287ea258517537ba26f4103dda36.png",
+	"pokemon_type_id": "flying,poison",
+	"pokemon_type_name": "飞行,毒",
+	"abilities_name": [
+		"精神力"
+	],
+	"ability_info": [
+		"通过锻炼精神，不会因对手的攻击而畏缩。"
+	],
+	"category_name": "蝙蝠宝可梦",
+	"evolution": [
+		"041",
+		"042",
+		"169"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"皮肤薄到只要被阳光照射到就会晒伤。天气变冷后，就会抱团取暖。",
+		"因为没有眼珠，所以无法视物。会从口中发出超音波来探测周围的情况。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808cd"
+	},
+	"zukan_id": "042",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大嘴蝠",
+	"pokemon_sub_name": "",
+	"weight": 55,
+	"height": 1.6,
+	"file_name": "/img/pm/cedbf9afd3155d3df1e2ffebf049902598ebd74b.png",
+	"pokemon_type_id": "flying,poison",
+	"pokemon_type_name": "飞行,毒",
+	"abilities_name": [
+		"精神力"
+	],
+	"ability_info": [
+		"通过锻炼精神，不会因对手的攻击而畏缩。"
+	],
+	"category_name": "蝙蝠宝可梦",
+	"evolution": [
+		"041",
+		"042",
+		"169"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"一次能吸３００毫升的血液。有时会因吸血过多而无法飞行。",
+		"因为它肚子太饿而去咬了钢属性宝可梦，所以偶尔会看见缺了牙的大嘴蝠。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ce"
+	},
+	"zukan_id": "043",
+	"zukan_sub_id": 0,
+	"pokemon_name": "走路草",
+	"pokemon_sub_name": "",
+	"weight": 5.4,
+	"height": 0.5,
+	"file_name": "/img/pm/6bad448cb0997a928b94e72b67eacb861271f796.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"叶绿素"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。"
+	],
+	"category_name": "杂草宝可梦",
+	"evolution": [
+		"043",
+		"044",
+		"045 182"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"找到肥沃的土地后会把自己埋进去。白天埋在土里的时候，脚好像会变成像是树根那样的形状。",
+		"白天会把身体埋进地里，并用全身吸收土壤中的营养。据说土壤越肥沃，叶子就会变得越有光泽。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808cf"
+	},
+	"zukan_id": "044",
+	"zukan_sub_id": 0,
+	"pokemon_name": "臭臭花",
+	"pokemon_sub_name": "",
+	"weight": 8.6,
+	"height": 0.8,
+	"file_name": "/img/pm/62973d0fc5f9bd5d8c819b8c885bd1f216983ff1.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"叶绿素"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。"
+	],
+	"category_name": "杂草宝可梦",
+	"evolution": [
+		"043",
+		"044",
+		"045 182"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"臭臭花好像特别喜欢从嘴里流出的强烈臭味。闻到那味道后会分泌出更多的花蜜。",
+		"感到危险的时候，雌蕊放出的臭味会变得更加强烈，但心平气和的时候就不会放出臭味。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d0"
+	},
+	"zukan_id": "045",
+	"zukan_sub_id": 0,
+	"pokemon_name": "霸王花",
+	"pokemon_sub_name": "",
+	"weight": 18.6,
+	"height": 1.2,
+	"file_name": "/img/pm/a95af5f577260373074117cb756e5ea38cd674ef.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"叶绿素"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。"
+	],
+	"category_name": "花宝可梦",
+	"evolution": [
+		"043",
+		"044",
+		"045 182"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"会用世界上最大的花瓣引诱猎物靠近，然后将毒花粉撒在它的身上。等猎物不能动后，就会将它抓起来吃掉。",
+		"毒花粉会引起严重的过敏反应。在丛林里就算发现了美丽的花朵，也不要随便接近比较好哦。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d1"
+	},
+	"zukan_id": "046",
+	"zukan_sub_id": 0,
+	"pokemon_name": "派拉斯",
+	"pokemon_sub_name": "",
+	"weight": 5.4,
+	"height": 0.3,
+	"file_name": "/img/pm/837bcac8efc9329d9e3b9e46e95670a5d493b60a.png",
+	"pokemon_type_id": "bug,grass",
+	"pokemon_type_name": "虫,草",
+	"abilities_name": [
+		"干燥皮肤",
+		"孢子"
+	],
+	"ability_info": [
+		"下雨天气时和受到水属性的招式时，ＨＰ会回复。晴朗天气时和受到火属性的招式时，ＨＰ会减少。",
+		"受到攻击时，有时会把接触到自己的对手变为中毒、麻痹或睡眠状态。"
+	],
+	"category_name": "蘑菇宝可梦",
+	"evolution": [
+		"046",
+		"047"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"是一种叫做冬虫夏草的蘑菇在控制着虫子。虫子的意志会被它忽视。",
+		"可能是湿气不够，也可能是营养不足，反正阿罗拉的派拉斯背上的蘑菇都长得不怎么样。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d2"
+	},
+	"zukan_id": "047",
+	"zukan_sub_id": 0,
+	"pokemon_name": "派拉斯特",
+	"pokemon_sub_name": "",
+	"weight": 29.5,
+	"height": 1,
+	"file_name": "/img/pm/e5838e76eb33d88601ba9d6e045e1bdf7e20f46a.png",
+	"pokemon_type_id": "bug,grass",
+	"pokemon_type_name": "虫,草",
+	"abilities_name": [
+		"干燥皮肤",
+		"孢子"
+	],
+	"ability_info": [
+		"下雨天气时和受到水属性的招式时，ＨＰ会回复。晴朗天气时和受到火属性的招式时，ＨＰ会减少。",
+		"受到攻击时，有时会把接触到自己的对手变为中毒、麻痹或睡眠状态。"
+	],
+	"category_name": "蘑菇宝可梦",
+	"evolution": [
+		"046",
+		"047"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"有毒的孢子也能用于中药。阿罗拉产的好像品质不怎么样。",
+		"底下的虫子基本上死了，真正的本体是背上的蘑菇。如果蘑菇掉下来，它就不会动了。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d3"
+	},
+	"zukan_id": "048",
+	"zukan_sub_id": 0,
+	"pokemon_name": "毛球",
+	"pokemon_sub_name": "",
+	"weight": 30,
+	"height": 1,
+	"file_name": "/img/pm/8b550ab54d22a87dc784ee1af6cff4ad33aa10a2.png",
+	"pokemon_type_id": "bug,poison",
+	"pokemon_type_name": "虫,毒",
+	"abilities_name": [
+		"复眼",
+		"有色眼镜"
+	],
+	"ability_info": [
+		"因为拥有复眼，招式的命中率会提高。",
+		"可以将效果不好的招式以通常的威力使出。"
+	],
+	"category_name": "昆虫宝可梦",
+	"evolution": [
+		"048",
+		"049"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"据说为了保护自己，变得全身长满了坚硬细小的体毛。有着不会放跑任何小猎物的眼睛。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d4"
+	},
+	"zukan_id": "049",
+	"zukan_sub_id": 0,
+	"pokemon_name": "摩鲁蛾",
+	"pokemon_sub_name": "",
+	"weight": 12.5,
+	"height": 1.5,
+	"file_name": "/img/pm/c57d464a64424f031a9872f2ec3f7c0b8052d3c1.png",
+	"pokemon_type_id": "bug,poison",
+	"pokemon_type_name": "虫,毒",
+	"abilities_name": [
+		"鳞粉",
+		"有色眼镜"
+	],
+	"ability_info": [
+		"被鳞粉守护着，不会受到招式的追加效果影响。",
+		"可以将效果不好的招式以通常的威力使出。"
+	],
+	"category_name": "毒蛾宝可梦",
+	"evolution": [
+		"048",
+		"049"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"具有夜行性，会在夜间开始活动。喜欢捕食被路灯灯光吸引而聚集在一起的小虫子。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d5"
+	},
+	"zukan_id": "050",
+	"zukan_sub_id": 0,
+	"pokemon_name": "地鼠",
+	"pokemon_sub_name": "",
+	"weight": 0.8,
+	"height": 0.2,
+	"file_name": "/img/pm/583fa625d6fda586a5734f5f9e455952aa6af15f.png",
+	"pokemon_type_id": "ground",
+	"pokemon_type_name": "地面",
+	"abilities_name": [
+		"沙穴",
+		"沙隐"
+	],
+	"ability_info": [
+		"在战斗中让对手无法逃走。",
+		"在沙暴的时候，闪避率会提高。"
+	],
+	"category_name": "鼹鼠宝可梦",
+	"evolution": [
+		"050",
+		"051"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			1
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			1
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"农户会在农作物周围种上地鼠喜食的树木，并以此来让它们耕作土地哦。",
+		"会在地下挖掘隧道移动。由于讨厌光线，所以会在太阳落山后来到地上。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	],
+	"weakness": [
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d6"
+	},
+	"zukan_id": "050",
+	"zukan_sub_id": 1,
+	"pokemon_name": "地鼠",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 1,
+	"height": 0.2,
+	"file_name": "/img/pm/19bd3a09933b3e9a0a7156ef294091922dbf771e.png",
+	"pokemon_type_id": "ground,steel",
+	"pokemon_type_name": "地面,钢",
+	"abilities_name": [
+		"沙隐",
+		"卷发"
+	],
+	"ability_info": [
+		"在沙暴的时候，闪避率会提高。",
+		"对于用攻击接触到自己的对手，会降低其速度。"
+	],
+	"category_name": "鼹鼠宝可梦",
+	"evolution": [
+		"050",
+		"051"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			1
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"比其他地区的地鼠更有力气。这是在挖掘熔岩地质的地面前进时锻炼出来的。",
+		"力量强大，即使是熔岩地质的地面也能飞快地挖掘前进。但它却很少现身。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d7"
+	},
+	"zukan_id": "051",
+	"zukan_sub_id": 0,
+	"pokemon_name": "三地鼠",
+	"pokemon_sub_name": "",
+	"weight": 33.3,
+	"height": 0.7,
+	"file_name": "/img/pm/de7c2ea1a9f39427b4732a6122284f257f9e87aa.png",
+	"pokemon_type_id": "ground",
+	"pokemon_type_name": "地面",
+	"abilities_name": [
+		"沙穴",
+		"沙隐"
+	],
+	"ability_info": [
+		"在战斗中让对手无法逃走。",
+		"在沙暴的时候，闪避率会提高。"
+	],
+	"category_name": "鼹鼠宝可梦",
+	"evolution": [
+		"050",
+		"051"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"虽然长得很圆润，但却有着出奇坚硬的脑袋。不管是怎样的地层，它都能用头锤的方式挖掘前进。",
+		"三胞胎的感情一直很好，但在极少数情况下，也会为哪个脑袋先进食而激烈争吵。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	],
+	"weakness": [
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d8"
+	},
+	"zukan_id": "051",
+	"zukan_sub_id": 1,
+	"pokemon_name": "三地鼠",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 66.6,
+	"height": 0.7,
+	"file_name": "/img/pm/7ba9403c475a889eadffb71b6cceae6e13c91a8e.png",
+	"pokemon_type_id": "ground,steel",
+	"pokemon_type_name": "地面,钢",
+	"abilities_name": [
+		"沙隐",
+		"卷发"
+	],
+	"ability_info": [
+		"在沙暴的时候，闪避率会提高。",
+		"对于用攻击接触到自己的对手，会降低其速度。"
+	],
+	"category_name": "鼹鼠宝可梦",
+	"evolution": [
+		"050",
+		"051"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"闪着金光的胡须是高灵敏的感应器。连数公里外的声音也能通过振动感知到。",
+		"金属材质的胡须很重，所以速度不怎么快，但有着能挖穿坚硬岩盘的力量。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808d9"
+	},
+	"zukan_id": "052",
+	"zukan_sub_id": 0,
+	"pokemon_name": "喵喵",
+	"pokemon_sub_name": "",
+	"weight": 4.2,
+	"height": 0.4,
+	"file_name": "/img/pm/6ea01871238908780334293e6407033650d803a9.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"捡拾",
+		"技术高手"
+	],
+	"ability_info": [
+		"有时会捡来对手用过的道具，冒险过程中也会捡到。",
+		"攻击时可以将低威力招式的威力提高。"
+	],
+	"category_name": "妖怪猫宝可梦",
+	"evolution": [
+		"052",
+		"053"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"非常喜欢硬币。只要给它硬币就能轻易和它亲近，但因为它性情多变，所以不怎么靠得住哦。",
+		"如果去垃圾场的话，就能看到它和黑暗鸦为争夺发光的东西而激烈打斗的景象。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808da"
+	},
+	"zukan_id": "052",
+	"zukan_sub_id": 1,
+	"pokemon_name": "喵喵",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 4.2,
+	"height": 0.4,
+	"file_name": "/img/pm/57a0c88227aa0fe2327d79af31eb9516d4728752.png",
+	"pokemon_type_id": "dark",
+	"pokemon_type_name": "恶",
+	"abilities_name": [
+		"捡拾",
+		"技术高手"
+	],
+	"ability_info": [
+		"有时会捡来对手用过的道具，冒险过程中也会捡到。",
+		"攻击时可以将低威力招式的威力提高。"
+	],
+	"category_name": "妖怪猫宝可梦",
+	"evolution": [
+		"052",
+		"053"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"很久以前，由繁荣兴旺的王族从其他地区带到此地。桀骜不驯，自尊心很强。",
+		"浮躁、任性、耐不住性子。深受那些比起被别人照顾，更喜欢照顾别人的训练家欢迎。"
+	],
+	"type": [
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808db"
+	},
+	"zukan_id": "053",
+	"zukan_sub_id": 0,
+	"pokemon_name": "猫老大",
+	"pokemon_sub_name": "",
+	"weight": 32,
+	"height": 1,
+	"file_name": "/img/pm/8da0bb6b5587f2150f41b08e0d61a80827d7229f.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"柔软",
+		"技术高手"
+	],
+	"ability_info": [
+		"因为身体柔软，不会变为麻痹状态。",
+		"攻击时可以将低威力招式的威力提高。"
+	],
+	"category_name": "暹罗猫宝可梦",
+	"evolution": [
+		"052",
+		"053"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"很受有钱人喜爱的宝可梦。有时会遭到那些打它额头宝石主意的猎人们袭击。",
+		"虽然额头上的宝石颜色和阿罗拉猫老大的不一样，但成分却没什么两样。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808dc"
+	},
+	"zukan_id": "053",
+	"zukan_sub_id": 1,
+	"pokemon_name": "猫老大",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 33,
+	"height": 1.1,
+	"file_name": "/img/pm/4341e35269528c91e75b6516b820804a37d9eebf.png",
+	"pokemon_type_id": "dark",
+	"pokemon_type_name": "恶",
+	"abilities_name": [
+		"毛皮大衣",
+		"技术高手"
+	],
+	"ability_info": [
+		"对手给予的物理招式的伤害会减半。",
+		"攻击时可以将低威力招式的威力提高。"
+	],
+	"category_name": "暹罗猫宝可梦",
+	"evolution": [
+		"052",
+		"053"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"圆脸是富贵的象征。体型丰满，大盘脸的猫老大会被认为是美丽的。",
+		"不同于其可爱的脸蛋，它有着玩弄衰弱的猎物而不杀死它们的残忍性格。"
+	],
+	"type": [
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808dd"
+	},
+	"zukan_id": "054",
+	"zukan_sub_id": 0,
+	"pokemon_name": "可达鸭",
+	"pokemon_sub_name": "",
+	"weight": 19.6,
+	"height": 0.8,
+	"file_name": "/img/pm/0783062d0d860b8ae7d8e859241a700359c4d981.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"无关天气",
+		"湿气"
+	],
+	"ability_info": [
+		"任何天气的影响都会消失。",
+		"通过把周围都弄湿，使谁都无法使用自爆等爆炸类的招式。"
+	],
+	"category_name": "鸭宝可梦",
+	"evolution": [
+		"054",
+		"055"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"据了解，头痛发生时，它的脑细胞会比平时活跃１０倍。",
+		"使用念力会头痛，所以平时会尽量不做任何事，就在发呆中度过哦。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808de"
+	},
+	"zukan_id": "055",
+	"zukan_sub_id": 0,
+	"pokemon_name": "哥达鸭",
+	"pokemon_sub_name": "",
+	"weight": 76.6,
+	"height": 1.7,
+	"file_name": "/img/pm/0dd5b6e921f55c5d49978b84ee66e458336518ae.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"无关天气",
+		"湿气"
+	],
+	"ability_info": [
+		"任何天气的影响都会消失。",
+		"通过把周围都弄湿，使谁都无法使用自爆等爆炸类的招式。"
+	],
+	"category_name": "鸭宝可梦",
+	"evolution": [
+		"054",
+		"055"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"游泳专家。能灵活地摇摆长尾巴，游上整整２天。",
+		"即便是游得很快的鱼宝可梦，它也能用定身法定住其行动，并轻易地进行捕捉。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808df"
+	},
+	"zukan_id": "056",
+	"zukan_sub_id": 0,
+	"pokemon_name": "猴怪",
+	"pokemon_sub_name": "",
+	"weight": 28,
+	"height": 0.5,
+	"file_name": "/img/pm/00fb5703d7c2b7a89933bbed89f4c84e48c59ea2.png",
+	"pokemon_type_id": "fighting",
+	"pokemon_type_name": "格斗",
+	"abilities_name": [
+		"愤怒穴位",
+		"干劲"
+	],
+	"ability_info": [
+		"要害被击中时，会大发雷霆，攻击力变为最大。",
+		"通过激发出干劲，不会变为睡眠状态。"
+	],
+	"category_name": "猪猴宝可梦",
+	"evolution": [
+		"056",
+		"057"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"只要有１只发怒，周围的猴怪也会跟着发怒，所以猴怪群里没有一刻是安静的。",
+		"该宝可梦会因一点小事而立刻动怒。由于不会积累压力，所以能活相当长的时间。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e0"
+	},
+	"zukan_id": "057",
+	"zukan_sub_id": 0,
+	"pokemon_name": "火暴猴",
+	"pokemon_sub_name": "",
+	"weight": 32,
+	"height": 1,
+	"file_name": "/img/pm/37a3edfcf9c5cbdb68bcf8945ff89fe2999e5a30.png",
+	"pokemon_type_id": "fighting",
+	"pokemon_type_name": "格斗",
+	"abilities_name": [
+		"愤怒穴位",
+		"干劲"
+	],
+	"ability_info": [
+		"要害被击中时，会大发雷霆，攻击力变为最大。",
+		"通过激发出干劲，不会变为睡眠状态。"
+	],
+	"category_name": "猪猴宝可梦",
+	"evolution": [
+		"056",
+		"057"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"比起其他宝可梦，它的脑血管更加坚固，就算持续发怒也能精力充沛。",
+		"它不会原谅激怒它的人或宝可梦，会持续地追击对方。就算把对方揍得无法动弹也依然不会原谅对方。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e1"
+	},
+	"zukan_id": "058",
+	"zukan_sub_id": 0,
+	"pokemon_name": "卡蒂狗",
+	"pokemon_sub_name": "",
+	"weight": 19,
+	"height": 0.7,
+	"file_name": "/img/pm/333e2aef290059dc46274b77ea4095094784316a.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"引火",
+		"威吓"
+	],
+	"ability_info": [
+		"受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。",
+		"出场时威吓对手，让其退缩，降低对手的攻击。"
+	],
+	"category_name": "小狗宝可梦",
+	"evolution": [
+		"058",
+		"059"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"很久很久以前就和人类一起生活。从石器时代的遗迹中出土过它的骨头。",
+		"熟悉后便会与人亲近，但野生的卡蒂狗会和岩狗狗就领地而展开激烈的争夺。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e2"
+	},
+	"zukan_id": "059",
+	"zukan_sub_id": 0,
+	"pokemon_name": "风速狗",
+	"pokemon_sub_name": "",
+	"weight": 155,
+	"height": 1.9,
+	"file_name": "/img/pm/7ef9e71e9dc624e5558d7b4619f75ea8659eff55.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"引火",
+		"威吓"
+	],
+	"ability_info": [
+		"受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。",
+		"出场时威吓对手，让其退缩，降低对手的攻击。"
+	],
+	"category_name": "传说宝可梦",
+	"evolution": [
+		"058",
+		"059"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"虽然留有众多传说，被称为传说的宝可梦，但发现它的次数却意外的多。",
+		"流传着这样一个传说。很久以前，它曾经和某位武将一起并肩战斗并治理国家。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e3"
+	},
+	"zukan_id": "060",
+	"zukan_sub_id": 0,
+	"pokemon_name": "蚊香蝌蚪",
+	"pokemon_sub_name": "",
+	"weight": 12.4,
+	"height": 0.6,
+	"file_name": "/img/pm/8e8d47c5af6084904793496ddddb3e5f516e79f7.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"湿气",
+		"储水"
+	],
+	"ability_info": [
+		"通过把周围都弄湿，使谁都无法使用自爆等爆炸类的招式。",
+		"受到水属性的招式攻击时，不会受到伤害，而是会回复。"
+	],
+	"category_name": "蝌蚪宝可梦",
+	"evolution": [
+		"060",
+		"061",
+		"062 186"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"因地域不同，漩涡的方向也有着微妙的差异。蚊香蝌蚪的爱好者好像一眼就能分辨出来。",
+		"虽然危险，却向往登上陆地。因为它还只能晃晃悠悠地走路，所以被敌人发现后会慌忙逃入水中。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e4"
+	},
+	"zukan_id": "061",
+	"zukan_sub_id": 0,
+	"pokemon_name": "蚊香君",
+	"pokemon_sub_name": "",
+	"weight": 20,
+	"height": 1,
+	"file_name": "/img/pm/7e16ace7443d45cc1def215c8cf82beefc69041c.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"湿气",
+		"储水"
+	],
+	"ability_info": [
+		"通过把周围都弄湿，使谁都无法使用自爆等爆炸类的招式。",
+		"受到水属性的招式攻击时，不会受到伤害，而是会回复。"
+	],
+	"category_name": "蝌蚪宝可梦",
+	"evolution": [
+		"060",
+		"061",
+		"062 186"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"皮肤干燥就会失去活力，所以经常给它补充水分吧。",
+		"虽然已经能在陆地上生活，但还是栖息在有大量鱼宝可梦可捕食的水中。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e5"
+	},
+	"zukan_id": "062",
+	"zukan_sub_id": 0,
+	"pokemon_name": "蚊香泳士",
+	"pokemon_sub_name": "",
+	"weight": 54,
+	"height": 1.3,
+	"file_name": "/img/pm/da2fce266d1c13743742451617b2976d6bfd483d.png",
+	"pokemon_type_id": "fighting,water",
+	"pokemon_type_name": "格斗,水",
+	"abilities_name": [
+		"湿气",
+		"储水"
+	],
+	"ability_info": [
+		"通过把周围都弄湿，使谁都无法使用自爆等爆炸类的招式。",
+		"受到水属性的招式攻击时，不会受到伤害，而是会回复。"
+	],
+	"category_name": "蝌蚪宝可梦",
+	"evolution": [
+		"060",
+		"061",
+		"062 186"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"通过游泳锻炼出来的肌肉结实又健硕。正面直拳连巨大的岩石都能击碎。",
+		"虽然在水宝可梦中是属于游泳健将那一类的，但平时却生活在陆地上。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e6"
+	},
+	"zukan_id": "063",
+	"zukan_sub_id": 0,
+	"pokemon_name": "凯西",
+	"pokemon_sub_name": "",
+	"weight": 19.5,
+	"height": 0.9,
+	"file_name": "/img/pm/5d05e6f2393a6a72fb36da26a79fd3db95ae7412.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"精神力",
+		"同步"
+	],
+	"ability_info": [
+		"通过锻炼精神，不会因对手的攻击而畏缩。",
+		"将自己的中毒、麻痹或灼伤状态传染给对手。"
+	],
+	"category_name": "念力宝可梦",
+	"evolution": [
+		"063",
+		"064",
+		"065"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			1
+		],
+		[
+			"攻击",
+			1
+		],
+		[
+			"防御",
+			1
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"能读取对方的心声，在危险临近前会通过瞬间移动逃走。要捕捉它的话，你得放空心灵。",
+		"即使是在睡梦中也会使用各种超能力，所以分辨不出它是不是醒着。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e7"
+	},
+	"zukan_id": "064",
+	"zukan_sub_id": 0,
+	"pokemon_name": "勇基拉",
+	"pokemon_sub_name": "",
+	"weight": 56.5,
+	"height": 1.3,
+	"file_name": "/img/pm/96613b8fe63edfdf800cde823078fadc6ea9aae9.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"精神力",
+		"同步"
+	],
+	"ability_info": [
+		"通过锻炼精神，不会因对手的攻击而畏缩。",
+		"将自己的中毒、麻痹或灼伤状态传染给对手。"
+	],
+	"category_name": "念力宝可梦",
+	"evolution": [
+		"063",
+		"064",
+		"065"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"虽然有着强大的精神力，但如果没有拿着银汤匙，精神力量就会减半。",
+		"会盯着银汤匙来增强并放出精神力量。用金汤匙好像就不行。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e8"
+	},
+	"zukan_id": "065",
+	"zukan_sub_id": 0,
+	"pokemon_name": "胡地",
+	"pokemon_sub_name": "",
+	"weight": 48,
+	"height": 1.5,
+	"file_name": "/img/pm/265d42cf68deea0a54dacf3a4f1953198f55ad53.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"精神力",
+		"同步"
+	],
+	"ability_info": [
+		"通过锻炼精神，不会因对手的攻击而畏缩。",
+		"将自己的中毒、麻痹或灼伤状态传染给对手。"
+	],
+	"category_name": "念力宝可梦",
+	"evolution": [
+		"063",
+		"064",
+		"065"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			7
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"会把汤匙交给自己信任的对象。如果用这把汤匙吃东西的话，不管吃什么好像都会觉得很美味。",
+		"手中的汤匙是胡地用超能力生成的。每把汤匙都是这世上独一无二的。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808e9"
+	},
+	"zukan_id": "065",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级胡地",
+	"pokemon_sub_name": "",
+	"weight": 48,
+	"height": 1.2,
+	"file_name": "/img/pm/6ef57b70dc74663cc1c203d7006e69cbad6bb15f.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"复制"
+	],
+	"ability_info": [
+		"出场时，复制对手的特性，变为与之相同的特性。"
+	],
+	"category_name": "念力宝可梦",
+	"evolution": [
+		"063",
+		"064",
+		"065"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			9
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			8
+		]
+	],
+	"story": [
+		"胡地以肌肉为代价换来了真正力量的释放。能用精神力量看穿一切。",
+		"会从额头上的红色器官中放出精神力量，并看穿对手的一切。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ea"
+	},
+	"zukan_id": "066",
+	"zukan_sub_id": 0,
+	"pokemon_name": "腕力",
+	"pokemon_sub_name": "",
+	"weight": 19.5,
+	"height": 0.8,
+	"file_name": "/img/pm/0074c7d90ce7d2a6926d28fe777d2bcb0b4ccb0b.png",
+	"pokemon_type_id": "fighting",
+	"pokemon_type_name": "格斗",
+	"abilities_name": [
+		"毅力",
+		"无防守"
+	],
+	"ability_info": [
+		"如果变为异常状态，会拿出毅力，攻击会提高。",
+		"由于无防守战术，双方使出的招式都必定会击中。"
+	],
+	"category_name": "怪力宝可梦",
+	"evolution": [
+		"066",
+		"067",
+		"068"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"喜食营养价值高的食物。为了能有效地增长肌肉，它发自本能地追求着这些食物。",
+		"在和伙伴们的锻炼中获得了自信和肌肉后，就会去向幕下力士挑战。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808eb"
+	},
+	"zukan_id": "067",
+	"zukan_sub_id": 0,
+	"pokemon_name": "豪力",
+	"pokemon_sub_name": "",
+	"weight": 70.5,
+	"height": 1.5,
+	"file_name": "/img/pm/634e1c205ab72071fe941043f816a9e2f31db3ae.png",
+	"pokemon_type_id": "fighting",
+	"pokemon_type_name": "格斗",
+	"abilities_name": [
+		"毅力",
+		"无防守"
+	],
+	"ability_info": [
+		"如果变为异常状态，会拿出毅力，攻击会提高。",
+		"由于无防守战术，双方使出的招式都必定会击中。"
+	],
+	"category_name": "怪力宝可梦",
+	"evolution": [
+		"066",
+		"067",
+		"068"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"作为雕刻的主题很受欢迎。锻炼到极致的肌肉俘获了很多艺术家的心。",
+		"如果遇到了真正的强敌，就会解开腰上的力量限制腰带，并使出全力。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ec"
+	},
+	"zukan_id": "068",
+	"zukan_sub_id": 0,
+	"pokemon_name": "怪力",
+	"pokemon_sub_name": "",
+	"weight": 130,
+	"height": 1.6,
+	"file_name": "/img/pm/8f2f69ae05bd6c76f0d6fe6d03f1e22ec1a8010a.png",
+	"pokemon_type_id": "fighting",
+	"pokemon_type_name": "格斗",
+	"abilities_name": [
+		"毅力",
+		"无防守"
+	],
+	"ability_info": [
+		"如果变为异常状态，会拿出毅力，攻击会提高。",
+		"由于无防守战术，双方使出的招式都必定会击中。"
+	],
+	"category_name": "怪力宝可梦",
+	"evolution": [
+		"066",
+		"067",
+		"068"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			7
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"４只手臂攻守兼备。据说它精通这世上所有的格斗技。",
+		"会用４只手臂捉住对手，并将其勒成一个复杂的形状。人称怪力式固定技。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ed"
+	},
+	"zukan_id": "069",
+	"zukan_sub_id": 0,
+	"pokemon_name": "喇叭芽",
+	"pokemon_sub_name": "",
+	"weight": 4,
+	"height": 0.7,
+	"file_name": "/img/pm/47ae88a63c66e32e957da303ad50b72268e097e4.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"叶绿素"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。"
+	],
+	"category_name": "花宝可梦",
+	"evolution": [
+		"069",
+		"070",
+		"071"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"无论多强的攻击，都可以通过弯曲纤细柔软的身体来回避。会从嘴里吐出连铁都能溶化的液体。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ee"
+	},
+	"zukan_id": "070",
+	"zukan_sub_id": 0,
+	"pokemon_name": "口呆花",
+	"pokemon_sub_name": "",
+	"weight": 6.4,
+	"height": 1,
+	"file_name": "/img/pm/b19541cee78bc2a00eb3f59f7a2fcca67469eb78.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"叶绿素"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。"
+	],
+	"category_name": "捕蝇宝可梦",
+	"evolution": [
+		"069",
+		"070",
+		"071"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"到了晚上就会用尾钩挂在树枝上睡觉。如果睡相不好，早上就会掉到地上哦。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ef"
+	},
+	"zukan_id": "071",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大食花",
+	"pokemon_sub_name": "",
+	"weight": 15.5,
+	"height": 1.7,
+	"file_name": "/img/pm/f010b09344a212ecb98c6f209233c0661db0e7a8.png",
+	"pokemon_type_id": "grass,poison",
+	"pokemon_type_name": "草,毒",
+	"abilities_name": [
+		"叶绿素"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。"
+	],
+	"category_name": "捕蝇宝可梦",
+	"evolution": [
+		"069",
+		"070",
+		"071"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"会让长在脑袋上的藤蔓像小生物一样动来动去引诱猎物。等猎物接近时就会张开大嘴一口吞掉。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f0"
+	},
+	"zukan_id": "072",
+	"zukan_sub_id": 0,
+	"pokemon_name": "玛瑙水母",
+	"pokemon_sub_name": "",
+	"weight": 45.5,
+	"height": 0.9,
+	"file_name": "/img/pm/3da5f9c26f39884f5f44a861e6965fdc1722241b.png",
+	"pokemon_type_id": "poison,water",
+	"pokemon_type_name": "毒,水",
+	"abilities_name": [
+		"恒净之躯",
+		"污泥浆"
+	],
+	"ability_info": [
+		"不会因为对手的招式或特性而被降低能力。",
+		"吸收了污泥浆的对手会因强烈的恶臭而受到伤害，减少ＨＰ。"
+	],
+	"category_name": "水母宝可梦",
+	"evolution": [
+		"072",
+		"073"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"身体的９９％是水分。剩下的１％中包含了用来制造毒素的器官。",
+		"会漂浮在海边寻找猎物。虽然有毒的触手也会断掉，但过一段时间就会重新长出来。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f1"
+	},
+	"zukan_id": "073",
+	"zukan_sub_id": 0,
+	"pokemon_name": "毒刺水母",
+	"pokemon_sub_name": "",
+	"weight": 55,
+	"height": 1.6,
+	"file_name": "/img/pm/e8720bf3fe40182141dc5f442f5fb83eff544a6e.png",
+	"pokemon_type_id": "poison,water",
+	"pokemon_type_name": "毒,水",
+	"abilities_name": [
+		"恒净之躯",
+		"污泥浆"
+	],
+	"ability_info": [
+		"不会因为对手的招式或特性而被降低能力。",
+		"吸收了污泥浆的对手会因强烈的恶臭而受到伤害，减少ＨＰ。"
+	],
+	"category_name": "水母宝可梦",
+	"evolution": [
+		"072",
+		"073"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"能让红色珠子发光来与伙伴交流。忽明忽暗的闪光是用来告知要保持警惕的信号。",
+		"从红色珠子中发出超音波使猎物变得虚弱后，就会用８０根触手缠住对手。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f2"
+	},
+	"zukan_id": "074",
+	"zukan_sub_id": 0,
+	"pokemon_name": "小拳石",
+	"pokemon_sub_name": "",
+	"weight": 20,
+	"height": 0.4,
+	"file_name": "/img/pm/4b483c95c2124018519380eaa06cc657c5b76a64.png",
+	"pokemon_type_id": "ground,rock",
+	"pokemon_type_name": "地面,岩石",
+	"abilities_name": [
+		"坚硬脑袋",
+		"结实"
+	],
+	"ability_info": [
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "岩石宝可梦",
+	"evolution": [
+		"074",
+		"075",
+		"076"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			1
+		]
+	],
+	"story": [
+		"会用双手登上险峻的悬崖。人们好像是在看到它那身姿之后，才开始了抱石攀岩运动。",
+		"活了很久的小拳石在身上的角被磨平后会变得圆滚滚的。性格也非常的冷静平稳。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f3"
+	},
+	"zukan_id": "074",
+	"zukan_sub_id": 1,
+	"pokemon_name": "小拳石",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 20.3,
+	"height": 0.4,
+	"file_name": "/img/pm/c8870cfb5aae00c6b70d6550721b5bf51c73bf52.png",
+	"pokemon_type_id": "electric,rock",
+	"pokemon_type_name": "电,岩石",
+	"abilities_name": [
+		"磁力",
+		"结实"
+	],
+	"ability_info": [
+		"用磁力吸住钢属性的宝可梦，使其无法逃走。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "岩石宝可梦",
+	"evolution": [
+		"074",
+		"075",
+		"076"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			1
+		]
+	],
+	"story": [
+		"会用头锤和伙伴争斗。头上的铁矿砂会附着在磁力强的一方那里。",
+		"如果误以为是小石头而踩下去的话，它就会很生气并用头锤顶回来。被它撞到不单是痛，还会感觉麻麻的。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f4"
+	},
+	"zukan_id": "075",
+	"zukan_sub_id": 0,
+	"pokemon_name": "隆隆石",
+	"pokemon_sub_name": "",
+	"weight": 105,
+	"height": 1,
+	"file_name": "/img/pm/f3ae64c5acf41a159e07b63da847cccc773bb184.png",
+	"pokemon_type_id": "ground,rock",
+	"pokemon_type_name": "地面,岩石",
+	"abilities_name": [
+		"坚硬脑袋",
+		"结实"
+	],
+	"ability_info": [
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "岩石宝可梦",
+	"evolution": [
+		"074",
+		"075",
+		"076"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"会从悬崖上滚下来移动。如果不慎落入河里，就会来个大爆炸以作最后挣扎。",
+		"会爬上山崖前往山顶。到达山顶后，会立刻沿着来时的山路滚下去。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f5"
+	},
+	"zukan_id": "075",
+	"zukan_sub_id": 1,
+	"pokemon_name": "隆隆石",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 110,
+	"height": 1,
+	"file_name": "/img/pm/c91fbd40a228a6caa5f9b128715790fd536be2d6.png",
+	"pokemon_type_id": "electric,rock",
+	"pokemon_type_name": "电,岩石",
+	"abilities_name": [
+		"磁力",
+		"结实"
+	],
+	"ability_info": [
+		"用磁力吸住钢属性的宝可梦，使其无法逃走。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "岩石宝可梦",
+	"evolution": [
+		"074",
+		"075",
+		"076"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"受到喜欢吃的石头影响，它全身都带着电。性格非常好斗。",
+		"隆隆石之间互相争斗的话，它们周围就会出现闪光和爆炸声。当地人把这种现象称为陆地烟花。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f6"
+	},
+	"zukan_id": "076",
+	"zukan_sub_id": 0,
+	"pokemon_name": "隆隆岩",
+	"pokemon_sub_name": "",
+	"weight": 300,
+	"height": 1.4,
+	"file_name": "/img/pm/02fb8976b07089e975a9911ae2ff1327b5e3340d.png",
+	"pokemon_type_id": "ground,rock",
+	"pokemon_type_name": "地面,岩石",
+	"abilities_name": [
+		"坚硬脑袋",
+		"结实"
+	],
+	"ability_info": [
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "重量级宝可梦",
+	"evolution": [
+		"074",
+		"075",
+		"076"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			6
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"它会让自己的身体爆炸，然后利用这爆炸的力量，快速登上陡峭的山路。",
+		"年老后就不会蜕皮了。活过了漫长岁月的隆隆岩身上的外皮会长满苔藓变成绿色。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f7"
+	},
+	"zukan_id": "076",
+	"zukan_sub_id": 1,
+	"pokemon_name": "隆隆岩",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 316,
+	"height": 1.7,
+	"file_name": "/img/pm/b7df1424a881e4d3232e6dd0ebc9d1908309e588.png",
+	"pokemon_type_id": "electric,rock",
+	"pokemon_type_name": "电,岩石",
+	"abilities_name": [
+		"磁力",
+		"结实"
+	],
+	"ability_info": [
+		"用磁力吸住钢属性的宝可梦，使其无法逃走。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "重量级宝可梦",
+	"evolution": [
+		"074",
+		"075",
+		"076"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			6
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"能发射带电的巨大岩石。打中后，着弹点附近就会迸发出惊人的电击。",
+		"个性顽固且难以相处。如果它不高兴了，就会全身放电，并以雷鸣般的声音吼叫。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f8"
+	},
+	"zukan_id": "077",
+	"zukan_sub_id": 0,
+	"pokemon_name": "小火马",
+	"pokemon_sub_name": "",
+	"weight": 30,
+	"height": 1,
+	"file_name": "/img/pm/dacab2be1777c14ed7da12824dd85c2cdbd2ebf9.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"引火",
+		"逃跑"
+	],
+	"ability_info": [
+		"受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。",
+		"一定能从野生宝可梦那儿逃走。"
+	],
+	"category_name": "火马宝可梦",
+	"evolution": [
+		"077",
+		"078"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"虽然出生后立刻站起来十分不易，但在跌倒中追赶双亲能帮助它锻炼出结实的腰腿。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808f9"
+	},
+	"zukan_id": "078",
+	"zukan_sub_id": 0,
+	"pokemon_name": "烈焰马",
+	"pokemon_sub_name": "",
+	"weight": 95,
+	"height": 1.7,
+	"file_name": "/img/pm/cb874883fcffc227e8d065e275221e1e05ece46c.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"引火",
+		"逃跑"
+	],
+	"ability_info": [
+		"受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。",
+		"一定能从野生宝可梦那儿逃走。"
+	],
+	"category_name": "火马宝可梦",
+	"evolution": [
+		"077",
+		"078"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"虽然平时会很悠闲地在原野上到处乱跑，但一旦认真起来，鬃毛上的火焰便会燃烧，会以２４０公里的时速开始奔跑。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808fa"
+	},
+	"zukan_id": "079",
+	"zukan_sub_id": 0,
+	"pokemon_name": "呆呆兽",
+	"pokemon_sub_name": "",
+	"weight": 36,
+	"height": 1.2,
+	"file_name": "/img/pm/441132f5cdf87b0e46f96952f16c2dfc75911054.png",
+	"pokemon_type_id": "psychic,water",
+	"pokemon_type_name": "超能力,水",
+	"abilities_name": [
+		"迟钝",
+		"我行我素"
+	],
+	"ability_info": [
+		"因为感觉迟钝，不会变为着迷和被挑衅状态。",
+		"因为我行我素，不会变为混乱状态。"
+	],
+	"category_name": "憨憨宝可梦",
+	"evolution": [
+		"079",
+		"080 199"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			1
+		]
+	],
+	"story": [
+		"会自然断裂并脱落下来的尾巴是一种容易得到又十分贵重的食材。",
+		"有传说讲呆呆兽打哈欠就会下雨，所以据说有些地方会供奉呆呆兽。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808fb"
+	},
+	"zukan_id": "080",
+	"zukan_sub_id": 0,
+	"pokemon_name": "呆壳兽",
+	"pokemon_sub_name": "",
+	"weight": 78.5,
+	"height": 1.6,
+	"file_name": "/img/pm/4d93d1171a1b9551989b17b4ae6838e4e9e98378.png",
+	"pokemon_type_id": "psychic,water",
+	"pokemon_type_name": "超能力,水",
+	"abilities_name": [
+		"迟钝",
+		"我行我素"
+	],
+	"ability_info": [
+		"因为感觉迟钝，不会变为着迷和被挑衅状态。",
+		"因为我行我素，不会变为混乱状态。"
+	],
+	"category_name": "寄居蟹宝可梦",
+	"evolution": [
+		"079",
+		"080 199"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"为了能从其尾巴上吸到更多更多的甜味，贪吃的大舌贝把外壳变成了螺旋状的样子。",
+		"基本上一直在发呆。当尾巴被切断，大舌贝脱落后，它就会变回呆呆兽。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808fc"
+	},
+	"zukan_id": "080",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级呆壳兽",
+	"pokemon_sub_name": "",
+	"weight": 120,
+	"height": 2,
+	"file_name": "/img/pm/b4ff1375aa8d23aff0cc09a2f96773fbdd8e3843.png",
+	"pokemon_type_id": "psychic,water",
+	"pokemon_type_name": "超能力,水",
+	"abilities_name": [
+		"硬壳盔甲"
+	],
+	"ability_info": [
+		"被坚硬的壳保护着，对手的攻击不会击中要害。"
+	],
+	"category_name": "寄居蟹宝可梦",
+	"evolution": [
+		"079",
+		"080 199"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			8
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"被大舌贝整个吞下后，它获得了铜墙铁壁般的防御力。里面待起来相当舒适。",
+		"惊人的能量强化了尾巴上大舌贝的力量。对呆呆兽倒没什么影响。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808fd"
+	},
+	"zukan_id": "081",
+	"zukan_sub_id": 0,
+	"pokemon_name": "小磁怪",
+	"pokemon_sub_name": "",
+	"weight": 6,
+	"height": 0.3,
+	"file_name": "/img/pm/8dfff91e7e39b06d0a9fcfb414565b25de55bdf1.png",
+	"pokemon_type_id": "electric,steel",
+	"pokemon_type_name": "电,钢",
+	"abilities_name": [
+		"磁力",
+		"结实"
+	],
+	"ability_info": [
+		"用磁力吸住钢属性的宝可梦，使其无法逃走。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "磁铁宝可梦",
+	"evolution": [
+		"081",
+		"082",
+		"462"
+	],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			1
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"可能是因为最近的电线都被埋在了地下，所以袭击发电厂的小磁怪变多了。",
+		"因为它时常会引发停电，所以有些发电厂会发出小磁怪讨厌的电波。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808fe"
+	},
+	"zukan_id": "082",
+	"zukan_sub_id": 0,
+	"pokemon_name": "三合一磁怪",
+	"pokemon_sub_name": "",
+	"weight": 60,
+	"height": 1,
+	"file_name": "/img/pm/5f8732c548e90780b660f65926e5567755aa2a6c.png",
+	"pokemon_type_id": "electric,steel",
+	"pokemon_type_name": "电,钢",
+	"abilities_name": [
+		"磁力",
+		"结实"
+	],
+	"ability_info": [
+		"用磁力吸住钢属性的宝可梦，使其无法逃走。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "磁铁宝可梦",
+	"evolution": [
+		"081",
+		"082",
+		"462"
+	],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"雨云形成后，它们就会聚集在高处，等待着从天上落下雷电。",
+		"会发出神秘的电波，在三合一磁怪栖息的地方，精密机器会发生故障。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e808ff"
+	},
+	"zukan_id": "083",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大葱鸭",
+	"pokemon_sub_name": "",
+	"weight": 15,
+	"height": 0.8,
+	"file_name": "/img/pm/810c4dc60ff4f315216717a2ecaa3c7dfe3fcf09.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"精神力",
+		"锐利目光"
+	],
+	"ability_info": [
+		"通过锻炼精神，不会因对手的攻击而畏缩。",
+		"多亏了锐利的目光，命中率不会被降低。"
+	],
+	"category_name": "黄嘴鸭宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"手上拿着的植物茎好像有好有坏，所以大葱鸭之间有时会为了争夺茎而彼此战斗。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80900"
+	},
+	"zukan_id": "084",
+	"zukan_sub_id": 0,
+	"pokemon_name": "嘟嘟",
+	"pokemon_sub_name": "",
+	"weight": 39.2,
+	"height": 1.4,
+	"file_name": "/img/pm/63ff86cee884446925e664d99b82e3e8de988412.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"早起",
+		"逃跑"
+	],
+	"ability_info": [
+		"即使变为睡眠状态，也能以２倍的速度提早醒来。",
+		"一定能从野生宝可梦那儿逃走。"
+	],
+	"category_name": "两头鸟宝可梦",
+	"evolution": [
+		"084",
+		"085"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"２个脑袋有着相同的大脑。但研究表明有极少数的嘟嘟会生来拥有不同的大脑。",
+		"２个脑袋从来不会同时睡着。为了防止在睡着时受到敌人袭击，所以它们会轮流望风。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80901"
+	},
+	"zukan_id": "085",
+	"zukan_sub_id": 0,
+	"pokemon_name": "嘟嘟利",
+	"pokemon_sub_name": "",
+	"weight": 85.2,
+	"height": 1.8,
+	"file_name": "/img/pm/de41d6a29c38d65f1f39bc5ecb3afe30c5e057eb.png",
+	"pokemon_type_id": "flying,normal",
+	"pokemon_type_name": "飞行,一般",
+	"abilities_name": [
+		"早起",
+		"逃跑"
+	],
+	"ability_info": [
+		"即使变为睡眠状态，也能以２倍的速度提早醒来。",
+		"一定能从野生宝可梦那儿逃走。"
+	],
+	"category_name": "三头鸟宝可梦",
+	"evolution": [
+		"084",
+		"085"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"有３个的好像不仅仅是脑袋。心和肺也有３个，所以它可以毫不喘气地跑上很长的距离。",
+		"３个脑袋朝着不同方向时，就是它在进行警戒的证明。不小心靠近的话就会被鸟嘴啄。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80902"
+	},
+	"zukan_id": "086",
+	"zukan_sub_id": 0,
+	"pokemon_name": "小海狮",
+	"pokemon_sub_name": "",
+	"weight": 90,
+	"height": 1.1,
+	"file_name": "/img/pm/fc1342f9b5bc761333a44d74dc47ba0ff30ad6c8.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"湿润之躯",
+		"厚脂肪"
+	],
+	"ability_info": [
+		"下雨天气时，异常状态会治愈。",
+		"因为被厚厚的脂肪保护着，会让火属性和冰属性的招式伤害减半。"
+	],
+	"category_name": "海狮宝可梦",
+	"evolution": [
+		"086",
+		"087"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"因为有着厚厚的脂肪，所以在寒冷的海里它也毫不在意，但在温暖的海里却有点容易疲劳。",
+		"人们一直以为它只生活在寒冷的海域。它出现在阿罗拉的原因是个谜。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80903"
+	},
+	"zukan_id": "087",
+	"zukan_sub_id": 0,
+	"pokemon_name": "白海狮",
+	"pokemon_sub_name": "",
+	"weight": 120,
+	"height": 1.7,
+	"file_name": "/img/pm/2a2e293a8524ac94136bada7346ddfe57e12e47e.png",
+	"pokemon_type_id": "ice,water",
+	"pokemon_type_name": "冰,水",
+	"abilities_name": [
+		"湿润之躯",
+		"厚脂肪"
+	],
+	"ability_info": [
+		"下雨天气时，异常状态会治愈。",
+		"因为被厚厚的脂肪保护着，会让火属性和冰属性的招式伤害减半。"
+	],
+	"category_name": "海狮宝可梦",
+	"evolution": [
+		"086",
+		"087"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"进食后会在沙滩上晒日光浴。会通过提高体温来帮助消化。",
+		"能以８节的速度在海里游动，并搜寻能当做猎物的宝可梦。特别喜欢吃弱丁鱼。"
+	],
+	"type": [
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80904"
+	},
+	"zukan_id": "088",
+	"zukan_sub_id": 0,
+	"pokemon_name": "臭泥",
+	"pokemon_sub_name": "",
+	"weight": 30,
+	"height": 0.9,
+	"file_name": "/img/pm/57f22ceb2f8765f927ff3fd1f4b4bf52a7033097.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"恶臭",
+		"黏着"
+	],
+	"ability_info": [
+		"通过释放臭臭的气味，在攻击的时候，有时会使对手畏缩。",
+		"因为道具是粘在黏性身体上的，所以不会被对手夺走。"
+	],
+	"category_name": "污泥宝可梦",
+	"evolution": [
+		"088",
+		"089"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"最近工厂流出的废水太干净，它都没东西可吃。据说马上就要灭绝了。",
+		"诞生于海底的污泥。在干净的地方，它就会因体内的细菌无法增长而死去。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80905"
+	},
+	"zukan_id": "088",
+	"zukan_sub_id": 1,
+	"pokemon_name": "臭泥",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 42,
+	"height": 0.7,
+	"file_name": "/img/pm/61096756c8bfed61fbcc938bd3d964012f00cc89.png",
+	"pokemon_type_id": "dark,poison",
+	"pokemon_type_name": "恶,毒",
+	"abilities_name": [
+		"贪吃鬼",
+		"毒手"
+	],
+	"ability_info": [
+		"原本ＨＰ变得很少时才会吃树果，在ＨＰ还有一半时就会把它吃掉。",
+		"只通过接触就有可能让对手变为中毒状态。"
+	],
+	"category_name": "污泥宝可梦",
+	"evolution": [
+		"088",
+		"089"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"为了解决垃圾问题，人们把它带到了阿罗拉。它能美美地吃光任何垃圾。",
+		"在阿罗拉的垃圾处理场，大约栖息着１００只左右的臭泥。它们很能干，会吃掉很多垃圾。"
+	],
+	"type": [
+		{
+			"id": "dark",
+			"name": "恶"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80906"
+	},
+	"zukan_id": "089",
+	"zukan_sub_id": 0,
+	"pokemon_name": "臭臭泥",
+	"pokemon_sub_name": "",
+	"weight": 30,
+	"height": 1.2,
+	"file_name": "/img/pm/db91b8849e602828aaff3939f9e0816dd9ce92ab.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"恶臭",
+		"黏着"
+	],
+	"ability_info": [
+		"通过释放臭臭的气味，在攻击的时候，有时会使对手畏缩。",
+		"因为道具是粘在黏性身体上的，所以不会被对手夺走。"
+	],
+	"category_name": "污泥宝可梦",
+	"evolution": [
+		"088",
+		"089"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"因为它会播撒病原菌，所以一直遭到人们的驱逐，结果它的数量也急剧减少了。",
+		"食物变少数量也会急剧减少。为了防止它灭绝，人们开始了制造人工污泥池。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80907"
+	},
+	"zukan_id": "089",
+	"zukan_sub_id": 1,
+	"pokemon_name": "臭臭泥",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 52,
+	"height": 1,
+	"file_name": "/img/pm/d83b601f999b3df4c958c5e5bc8f1e5b21b2594b.png",
+	"pokemon_type_id": "dark,poison",
+	"pokemon_type_name": "恶,毒",
+	"abilities_name": [
+		"贪吃鬼",
+		"毒手"
+	],
+	"ability_info": [
+		"原本ＨＰ变得很少时才会吃树果，在ＨＰ还有一半时就会把它吃掉。",
+		"只通过接触就有可能让对手变为中毒状态。"
+	],
+	"category_name": "污泥宝可梦",
+	"evolution": [
+		"088",
+		"089"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"看上去像牙齿或爪子的东西其实是毒素的结晶。只要碰到就会中毒，所以靠近它很危险。",
+		"体内的毒素有１００种以上。毒素和毒素之间的化学反应是其生命之源。"
+	],
+	"type": [
+		{
+			"id": "dark",
+			"name": "恶"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80908"
+	},
+	"zukan_id": "090",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大舌贝",
+	"pokemon_sub_name": "",
+	"weight": 4,
+	"height": 0.3,
+	"file_name": "/img/pm/36918010e6d91103c9017f4ce4d1764c9f145db8.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"硬壳盔甲",
+		"连续攻击"
+	],
+	"ability_info": [
+		"被坚硬的壳保护着，对手的攻击不会击中要害。",
+		"如果使用连续招式，总是能使出最高次数。"
+	],
+	"category_name": "双壳贝宝可梦",
+	"evolution": [
+		"090",
+		"091"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"就算是在紧闭贝壳的时候，舌头也会一直露在外面。如果强行拉拽舌头，它就会吓得打开贝壳哦。",
+		"虽然留在壳里的沙子终会变成珍珠，但会因为碍事而被它吐掉。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80909"
+	},
+	"zukan_id": "091",
+	"zukan_sub_id": 0,
+	"pokemon_name": "刺甲贝",
+	"pokemon_sub_name": "",
+	"weight": 132.5,
+	"height": 1.5,
+	"file_name": "/img/pm/d5ebac9e1afe16f2a1d16a7593e022fc576aed9e.png",
+	"pokemon_type_id": "ice,water",
+	"pokemon_type_name": "冰,水",
+	"abilities_name": [
+		"硬壳盔甲",
+		"连续攻击"
+	],
+	"ability_info": [
+		"被坚硬的壳保护着，对手的攻击不会击中要害。",
+		"如果使用连续招式，总是能使出最高次数。"
+	],
+	"category_name": "双壳贝宝可梦",
+	"evolution": [
+		"090",
+		"091"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			8
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"非常喜欢吃呆呆兽的尾巴。有时甚至会爬到陆地上来寻找呆呆兽。",
+		"拥有非常坚硬的外壳。外壳上的伤痕会逐渐隆起，长成大大的尖刺。"
+	],
+	"type": [
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8090a"
+	},
+	"zukan_id": "092",
+	"zukan_sub_id": 0,
+	"pokemon_name": "鬼斯",
+	"pokemon_sub_name": "",
+	"weight": 0.1,
+	"height": 1.3,
+	"file_name": "/img/pm/5c619391fb78cbe0d3646a9b76da07372a18580e.png",
+	"pokemon_type_id": "ghost,poison",
+	"pokemon_type_name": "幽灵,毒",
+	"abilities_name": [
+		"飘浮"
+	],
+	"ability_info": [
+		"从地面浮起，从而不会受到地面属性招式的攻击。"
+	],
+	"category_name": "气体状宝可梦",
+	"evolution": [
+		"092",
+		"093",
+		"094"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"身体的９５％是毒瓦斯。剩下的５％据说是死于毒瓦斯的死者的灵魂。",
+		"据说是怨念寄宿在了墓地散发出的气体中，并最终变成了宝可梦。"
+	],
+	"type": [
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8090b"
+	},
+	"zukan_id": "093",
+	"zukan_sub_id": 0,
+	"pokemon_name": "鬼斯通",
+	"pokemon_sub_name": "",
+	"weight": 0.1,
+	"height": 1.6,
+	"file_name": "/img/pm/b8bcfb490b9a54a7cfc607ac82f413f4e582cb56.png",
+	"pokemon_type_id": "ghost,poison",
+	"pokemon_type_name": "幽灵,毒",
+	"abilities_name": [
+		"飘浮"
+	],
+	"ability_info": [
+		"从地面浮起，从而不会受到地面属性招式的攻击。"
+	],
+	"category_name": "气体状宝可梦",
+	"evolution": [
+		"092",
+		"093",
+		"094"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"心情悲伤时单独夜出很危险。因为你会被鬼斯通捉住而无法回家。",
+		"在没有月亮的晚上，鬼斯通会寻找可以诅咒的对象，所以不要外出走动比较好哦。"
+	],
+	"type": [
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8090c"
+	},
+	"zukan_id": "094",
+	"zukan_sub_id": 0,
+	"pokemon_name": "耿鬼",
+	"pokemon_sub_name": "",
+	"weight": 40.5,
+	"height": 1.5,
+	"file_name": "/img/pm/47549471dc54feb8acd4b3de3a27ea8e9e9fd25c.png",
+	"pokemon_type_id": "ghost,poison",
+	"pokemon_type_name": "幽灵,毒",
+	"abilities_name": [
+		"诅咒之躯"
+	],
+	"ability_info": [
+		"受到攻击时，有时会把对手的招式变为定身法状态。"
+	],
+	"category_name": "影子宝可梦",
+	"evolution": [
+		"092",
+		"093",
+		"094"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"即使待在自己家里也很危险。因为它会潜伏在房屋角落里仅有的一点阴暗处伺机捕捉猎物。",
+		"在世界各地都能听到耿鬼会去找坏孩子这样的传说。"
+	],
+	"type": [
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8090d"
+	},
+	"zukan_id": "094",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级耿鬼",
+	"pokemon_sub_name": "",
+	"weight": 40.5,
+	"height": 1.4,
+	"file_name": "/img/pm/933fa0ef096191382ab20f5d6597ac7f8fbe336a.png",
+	"pokemon_type_id": "ghost,poison",
+	"pokemon_type_name": "幽灵,毒",
+	"abilities_name": [
+		"踩影"
+	],
+	"ability_info": [
+		"踩住对手的影子使其无法逃走或替换。"
+	],
+	"category_name": "影子宝可梦",
+	"evolution": [
+		"092",
+		"093",
+		"094"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			8
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			7
+		]
+	],
+	"story": [
+		"因为超级进化，它变得可以连接异次元。全身充满了神奇的力量。",
+		"会夺取所有东西的生命。即便是作为主人的训练家，也是它想要施咒的目标。"
+	],
+	"type": [
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8090e"
+	},
+	"zukan_id": "095",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大岩蛇",
+	"pokemon_sub_name": "",
+	"weight": 210,
+	"height": 8.8,
+	"file_name": "/img/pm/134d26303c22ac0e0173bdf5121a3a3aae10e36c.png",
+	"pokemon_type_id": "ground,rock",
+	"pokemon_type_name": "地面,岩石",
+	"abilities_name": [
+		"坚硬脑袋",
+		"结实"
+	],
+	"ability_info": [
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。",
+		"即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。"
+	],
+	"category_name": "岩蛇宝可梦",
+	"evolution": [
+		"095",
+		"208"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			7
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"因为脑内有磁铁，所以即使在地里挖洞前进也不会弄错方向。年纪越大身体就越圆润。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8090f"
+	},
+	"zukan_id": "096",
+	"zukan_sub_id": 0,
+	"pokemon_name": "催眠貘",
+	"pokemon_sub_name": "",
+	"weight": 32.4,
+	"height": 1,
+	"file_name": "/img/pm/1d82671099cdd52c4a0b84724d72033d305538bd.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"预知梦",
+		"不眠"
+	],
+	"ability_info": [
+		"出场时，只读取１个对手拥有的招式。",
+		"因为是不会睡觉的体质，所以不会变为睡眠状态。"
+	],
+	"category_name": "催眠宝可梦",
+	"evolution": [
+		"096",
+		"097"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"会让猎物睡着并吃掉其所做的梦。恶梦酸酸的，它好像不怎么喜欢吃。",
+		"能在娱乐设施的附近见到其身影。会偷吃那晚孩子们所做的美梦。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80910"
+	},
+	"zukan_id": "097",
+	"zukan_sub_id": 0,
+	"pokemon_name": "引梦貘人",
+	"pokemon_sub_name": "",
+	"weight": 75.6,
+	"height": 1.6,
+	"file_name": "/img/pm/9d0915f92dac45eca21a50d63799abe53404f7d4.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"预知梦",
+		"不眠"
+	],
+	"ability_info": [
+		"出场时，只读取１个对手拥有的招式。",
+		"因为是不会睡觉的体质，所以不会变为睡眠状态。"
+	],
+	"category_name": "催眠宝可梦",
+	"evolution": [
+		"096",
+		"097"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"为了帮助那些在晚上无法入睡的人们，也有些引梦貘人会去医院协助医生。",
+		"生活在阿罗拉的引梦貘人的目标主要是树枕尾熊。人倒不怎么会成为受害者。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80911"
+	},
+	"zukan_id": "098",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大钳蟹",
+	"pokemon_sub_name": "",
+	"weight": 6.5,
+	"height": 0.4,
+	"file_name": "/img/pm/15ec38c5c458545368bf8e85da77d49f4b09104d.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"怪力钳",
+		"硬壳盔甲"
+	],
+	"ability_info": [
+		"因为拥有以力量自豪的钳子，不会被对手降低攻击。",
+		"被坚硬的壳保护着，对手的攻击不会击中要害。"
+	],
+	"category_name": "清水蟹宝可梦",
+	"evolution": [
+		"098",
+		"099"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"会在沙滩上挖洞并生活在里面。在食物稀少的沙滩上，能够看到为抢地盘而争斗的大钳蟹们。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80912"
+	},
+	"zukan_id": "099",
+	"zukan_sub_id": 0,
+	"pokemon_name": "巨钳蟹",
+	"pokemon_sub_name": "",
+	"weight": 60,
+	"height": 1.3,
+	"file_name": "/img/pm/04f0bfa98547db408430513e07a15e3655095dca.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"怪力钳",
+		"硬壳盔甲"
+	],
+	"ability_info": [
+		"因为拥有以力量自豪的钳子，不会被对手降低攻击。",
+		"被坚硬的壳保护着，对手的攻击不会击中要害。"
+	],
+	"category_name": "钳子宝可梦",
+	"evolution": [
+		"098",
+		"099"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			7
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"虽然巨钳蟹之间会通过挥舞巨大的钳子来传递信号，但由于钳子太重很快就会疲劳。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80913"
+	},
+	"zukan_id": "100",
+	"zukan_sub_id": 0,
+	"pokemon_name": "霹雳电球",
+	"pokemon_sub_name": "",
+	"weight": 10.4,
+	"height": 0.5,
+	"file_name": "/img/pm/cfa3cfb38563c9afdb4d6fac40607fa78db97721.png",
+	"pokemon_type_id": "electric",
+	"pokemon_type_name": "电",
+	"abilities_name": [
+		"隔音",
+		"静电"
+	],
+	"ability_info": [
+		"通过屏蔽声音，不受到声音招式的攻击。",
+		"身上带有静电，有时会让接触到的对手麻痹。"
+	],
+	"category_name": "球宝可梦",
+	"evolution": [
+		"100",
+		"101"
+	],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"稍微受点冲击就会立刻爆炸。有传闻说它是在用强力脉冲照射精灵球时诞生的。",
+		"最早在制造精灵球的公司被发现，以及它的外观十分酷似精灵球，这两点之间的联系至今还是个谜。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80914"
+	},
+	"zukan_id": "101",
+	"zukan_sub_id": 0,
+	"pokemon_name": "顽皮雷弹",
+	"pokemon_sub_name": "",
+	"weight": 66.6,
+	"height": 1.2,
+	"file_name": "/img/pm/823f1e2536f6036d7423f17fa4969ecd7cf08e00.png",
+	"pokemon_type_id": "electric",
+	"pokemon_type_name": "电",
+	"abilities_name": [
+		"隔音",
+		"静电"
+	],
+	"ability_info": [
+		"通过屏蔽声音，不受到声音招式的攻击。",
+		"身上带有静电，有时会让接触到的对手麻痹。"
+	],
+	"category_name": "球宝可梦",
+	"evolution": [
+		"100",
+		"101"
+	],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			8
+		]
+	],
+	"story": [
+		"拥有被电力吸引的特质。是一群令人头疼的家伙，主要聚集在发电厂吃刚产出的电力。",
+		"会吃空气中的电能。在有雷落下的日子里，吃下过多电力的顽皮雷弹会在各处大爆炸。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80915"
+	},
+	"zukan_id": "102",
+	"zukan_sub_id": 0,
+	"pokemon_name": "蛋蛋",
+	"pokemon_sub_name": "",
+	"weight": 2.5,
+	"height": 0.4,
+	"file_name": "/img/pm/2b23bf26e6063e8fe37a5122a112abb1a475b052.png",
+	"pokemon_type_id": "grass,psychic",
+	"pokemon_type_name": "草,超能力",
+	"abilities_name": [
+		"叶绿素"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。"
+	],
+	"category_name": "蛋宝可梦",
+	"evolution": [
+		"102",
+		"103 103"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"即便大小相同，阿罗拉产的蛋蛋却很沉重。这是因为里面长得十分密实。",
+		"６只加在一起算１只。即便出于某些原因少了１只，到了次日清晨也一定会变回６只。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80916"
+	},
+	"zukan_id": "103",
+	"zukan_sub_id": 0,
+	"pokemon_name": "椰蛋树",
+	"pokemon_sub_name": "",
+	"weight": 120,
+	"height": 2,
+	"file_name": "/img/pm/a17a1d3fbeeba958495697c23b287b1966fd11dc.png",
+	"pokemon_type_id": "grass,psychic",
+	"pokemon_type_name": "草,超能力",
+	"abilities_name": [
+		"叶绿素"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。"
+	],
+	"category_name": "椰子宝可梦",
+	"evolution": [
+		"102",
+		"103 103"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"３个脑袋分别想着不同的事情。如果每个脑袋想去的方向不同，身体就会无法动弹。",
+		"会用精神力量来迎击敌人。３个脑袋会分别放出念力，所以威力也会变成３倍。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80917"
+	},
+	"zukan_id": "103",
+	"zukan_sub_id": 1,
+	"pokemon_name": "椰蛋树",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 415.6,
+	"height": 10.9,
+	"file_name": "/img/pm/12017db6ac167715bbdc052ec40ae093e8cb7b7c.png",
+	"pokemon_type_id": "dragon,grass",
+	"pokemon_type_name": "龙,草",
+	"abilities_name": [
+		"察觉"
+	],
+	"ability_info": [
+		"出场时，可以察觉对手的持有物。"
+	],
+	"category_name": "椰子宝可梦",
+	"evolution": [
+		"102",
+		"103 103"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"能让长脖子像鞭子一样弯曲，并用头重重地敲打对手。自己也会有些头晕眼花。",
+		"椰蛋树是阿罗拉人的骄傲。在历史悠久的绘画及建筑物上都刻有它的样子。"
+	],
+	"type": [
+		{
+			"id": "dragon",
+			"name": "龙"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "dragon",
+			"name": "龙"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80918"
+	},
+	"zukan_id": "104",
+	"zukan_sub_id": 0,
+	"pokemon_name": "卡拉卡拉",
+	"pokemon_sub_name": "",
+	"weight": 6.5,
+	"height": 0.4,
+	"file_name": "/img/pm/6c44a0ccb922bbb4345214f3fa0b9436a03c11f2.png",
+	"pokemon_type_id": "ground",
+	"pokemon_type_name": "地面",
+	"abilities_name": [
+		"避雷针",
+		"坚硬脑袋"
+	],
+	"ability_info": [
+		"将电属性的招式吸引到自己身上，不会受到伤害，而是会提高特攻。",
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。"
+	],
+	"category_name": "孤独宝可梦",
+	"evolution": [
+		"104",
+		"105 105"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"头上戴着母亲的骨头，因此无法知晓其长相和表情，只知道它一直在哭。",
+		"会思念已故的母亲而在夜里哭叫，因此会被其天敌秃鹰娜发现。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	],
+	"weakness": [
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80919"
+	},
+	"zukan_id": "105",
+	"zukan_sub_id": 0,
+	"pokemon_name": "嘎啦嘎啦",
+	"pokemon_sub_name": "",
+	"weight": 45,
+	"height": 1,
+	"file_name": "/img/pm/1a2a79bce9b5c63de4d6db9b895a34ce6bf6733d.png",
+	"pokemon_type_id": "ground",
+	"pokemon_type_name": "地面",
+	"abilities_name": [
+		"避雷针",
+		"坚硬脑袋"
+	],
+	"ability_info": [
+		"将电属性的招式吸引到自己身上，不会受到伤害，而是会提高特攻。",
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。"
+	],
+	"category_name": "爱骨宝可梦",
+	"evolution": [
+		"104",
+		"105 105"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"会有节奏地敲响骨头，并以此和伙伴进行联络。节奏有着近５０种变化。",
+		"会用力扔骨头击落秃鹰娜。人们认为它这是在给亲人报仇。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	],
+	"weakness": [
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8091a"
+	},
+	"zukan_id": "105",
+	"zukan_sub_id": 1,
+	"pokemon_name": "嘎啦嘎啦",
+	"pokemon_sub_name": "阿罗拉的样子",
+	"weight": 34,
+	"height": 1,
+	"file_name": "/img/pm/cce0a0732b1db5e9efba7effa7c51020ed94de60.png",
+	"pokemon_type_id": "fire,ghost",
+	"pokemon_type_name": "火,幽灵",
+	"abilities_name": [
+		"诅咒之躯",
+		"避雷针"
+	],
+	"ability_info": [
+		"受到攻击时，有时会把对手的招式变为定身法状态。",
+		"将电属性的招式吸引到自己身上，不会受到伤害，而是会提高特攻。"
+	],
+	"category_name": "爱骨宝可梦",
+	"evolution": [
+		"104",
+		"105 105"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"用骨头打击对方时，诅咒之焰就会蔓延到对方身上。不管浇多少水，它都不会熄灭，会永远燃烧下去。",
+		"对于嘎啦嘎啦来说，绿意盎然的阿罗拉地区是一片残酷的土地。为了活下去，它会去操纵火焰。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8091b"
+	},
+	"zukan_id": "106",
+	"zukan_sub_id": 0,
+	"pokemon_name": "飞腿郎",
+	"pokemon_sub_name": "",
+	"weight": 49.8,
+	"height": 1.5,
+	"file_name": "/img/pm/3e864b76679d4c2d1e46878dc241e06bdb8f8d1d.png",
+	"pokemon_type_id": "fighting",
+	"pokemon_type_name": "格斗",
+	"abilities_name": [
+		"柔软",
+		"舍身"
+	],
+	"ability_info": [
+		"因为身体柔软，不会变为麻痹状态。",
+		"自己会因反作用力受伤的招式，其威力会提高。"
+	],
+	"category_name": "踢腿宝可梦",
+	"evolution": [
+		"236",
+		"106 107 237"
+	],
+	"gender_name": [
+		"male"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"会用能自由伸缩的腿施展强力踢把对手踢倒。战斗后会去按揉疲劳的双腿。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8091c"
+	},
+	"zukan_id": "107",
+	"zukan_sub_id": 0,
+	"pokemon_name": "快拳郎",
+	"pokemon_sub_name": "",
+	"weight": 50.2,
+	"height": 1.4,
+	"file_name": "/img/pm/6c57fef755afbd6ddda7f3c21f20bb38159494c6.png",
+	"pokemon_type_id": "fighting",
+	"pokemon_type_name": "格斗",
+	"abilities_name": [
+		"铁拳",
+		"锐利目光"
+	],
+	"ability_info": [
+		"使用拳类招式的威力会提高。",
+		"多亏了锐利的目光，命中率不会被降低。"
+	],
+	"category_name": "拳击宝可梦",
+	"evolution": [
+		"236",
+		"106 107 237"
+	],
+	"gender_name": [
+		"male"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"快拳郎有着不屈之心，永远不会气馁。据说在它体内寄宿着以世界冠军为目标的拳击手的灵魂。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8091d"
+	},
+	"zukan_id": "108",
+	"zukan_sub_id": 0,
+	"pokemon_name": "大舌头",
+	"pokemon_sub_name": "",
+	"weight": 65.5,
+	"height": 1.2,
+	"file_name": "/img/pm/fe41bccc4b1fd3c2ab748d09a157e3c0c28c7700.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"迟钝",
+		"我行我素"
+	],
+	"ability_info": [
+		"因为感觉迟钝，不会变为着迷和被挑衅状态。",
+		"因为我行我素，不会变为混乱状态。"
+	],
+	"category_name": "舔舔宝可梦",
+	"evolution": [
+		"108",
+		"463"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"会用舌头将污渍舔干净。舔过之后有点臭臭的，所以是否真的干净很令人怀疑。",
+		"不管是什么，都会用长舌头去舔舔看。被舔到的部位如果放着不管就会红肿发炎。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8091e"
+	},
+	"zukan_id": "109",
+	"zukan_sub_id": 0,
+	"pokemon_name": "瓦斯弹",
+	"pokemon_sub_name": "",
+	"weight": 1,
+	"height": 0.6,
+	"file_name": "/img/pm/fd10b57c1ac95c00638aed70b4a41d679e9af2b6.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"飘浮"
+	],
+	"ability_info": [
+		"从地面浮起，从而不会受到地面属性招式的攻击。"
+	],
+	"category_name": "毒气宝可梦",
+	"evolution": [
+		"109",
+		"110"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"通过让湿垃圾和体内的毒素产生化学反应来制造剧毒的瓦斯。气温越高，可以生成的瓦斯就越多。",
+		"刺激它的话，瓦斯的毒素就会变强，并会从身体各处猛烈喷出。胀成一个圆圆的球后会发生大爆炸。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8091f"
+	},
+	"zukan_id": "110",
+	"zukan_sub_id": 0,
+	"pokemon_name": "双弹瓦斯",
+	"pokemon_sub_name": "",
+	"weight": 9.5,
+	"height": 1.2,
+	"file_name": "/img/pm/4c76d556bda94f8eb8b73a9e58ef051262e78b7d.png",
+	"pokemon_type_id": "poison",
+	"pokemon_type_name": "毒",
+	"abilities_name": [
+		"飘浮"
+	],
+	"ability_info": [
+		"从地面浮起，从而不会受到地面属性招式的攻击。"
+	],
+	"category_name": "毒气宝可梦",
+	"evolution": [
+		"109",
+		"110"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"会通过让双胞胎之身依次收缩膨胀来混合毒瓦斯。越混合毒素就会越强越臭。",
+		"非常喜欢腐烂的湿垃圾所产生的瓦斯。会定居在不打扫卫生的人家中，并在夜深人静时去垃圾箱中寻找瓦斯。"
+	],
+	"type": [
+		{
+			"id": "poison",
+			"name": "毒"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80920"
+	},
+	"zukan_id": "111",
+	"zukan_sub_id": 0,
+	"pokemon_name": "独角犀牛",
+	"pokemon_sub_name": "",
+	"weight": 115,
+	"height": 1,
+	"file_name": "/img/pm/8de47e638f274aae17eb13dc5c1e6e36e8224775.png",
+	"pokemon_type_id": "ground,rock",
+	"pokemon_type_name": "地面,岩石",
+	"abilities_name": [
+		"避雷针",
+		"坚硬脑袋"
+	],
+	"ability_info": [
+		"将电属性的招式吸引到自己身上，不会受到伤害，而是会提高特攻。",
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。"
+	],
+	"category_name": "尖尖宝可梦",
+	"evolution": [
+		"111",
+		"112",
+		"464"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"大脑很小，头脑很差，跑着跑着就会忘记是为什么而跑。好像破坏了什么东西后，偶尔也会记起奔跑的目的。",
+		"会一个劲儿地向前直冲不停地破坏。即使是撞上钢块也完全没事，但过了１天会感到稍微有点疼。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80921"
+	},
+	"zukan_id": "112",
+	"zukan_sub_id": 0,
+	"pokemon_name": "钻角犀兽",
+	"pokemon_sub_name": "",
+	"weight": 120,
+	"height": 1.9,
+	"file_name": "/img/pm/2db37f2dc4e86437160294178fd134fb65a1e8c3.png",
+	"pokemon_type_id": "ground,rock",
+	"pokemon_type_name": "地面,岩石",
+	"abilities_name": [
+		"避雷针",
+		"坚硬脑袋"
+	],
+	"ability_info": [
+		"将电属性的招式吸引到自己身上，不会受到伤害，而是会提高特攻。",
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。"
+	],
+	"category_name": "钻锥宝可梦",
+	"evolution": [
+		"111",
+		"112",
+		"464"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			7
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"会用变成钻头的角破坏岩石。虽然这样做有时会让熔岩喷发，但像铠甲一样的皮肤不会感觉到热度。",
+		"角能粉碎钻石原石，尾巴能一击扫塌大楼。坚硬的皮肤连大炮也无法伤及分毫。"
+	],
+	"type": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80922"
+	},
+	"zukan_id": "113",
+	"zukan_sub_id": 0,
+	"pokemon_name": "吉利蛋",
+	"pokemon_sub_name": "",
+	"weight": 34.6,
+	"height": 1.1,
+	"file_name": "/img/pm/67786c71bc7911f9faa28b01ab1b2cf661d4c28f.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"自然回复",
+		"天恩"
+	],
+	"ability_info": [
+		"回到同行队伍后，异常状态就会被治愈。",
+		"托天恩的福，招式的追加效果容易出现。"
+	],
+	"category_name": "蛋宝可梦",
+	"evolution": [
+		"440",
+		"113",
+		"242"
+	],
+	"gender_name": [
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			9
+		],
+		[
+			"攻击",
+			1
+		],
+		[
+			"防御",
+			1
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"经历了一段以夺取它腹部的蛋为目标的滥捕历史后，它的数量已经变得非常稀少。",
+		"其他宝可梦盯上了它那既美味又营养的蛋，在这追逐的过程中，它逃跑的速度好像变快了。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80923"
+	},
+	"zukan_id": "114",
+	"zukan_sub_id": 0,
+	"pokemon_name": "蔓藤怪",
+	"pokemon_sub_name": "",
+	"weight": 35,
+	"height": 1,
+	"file_name": "/img/pm/e6fdba2d3e167f34a8a75eb7ed3965fb3ddd4df8.png",
+	"pokemon_type_id": "grass",
+	"pokemon_type_name": "草",
+	"abilities_name": [
+		"叶绿素",
+		"叶子防守"
+	],
+	"ability_info": [
+		"晴朗天气时，速度会提高。",
+		"晴朗天气时，不会变为异常状态。"
+	],
+	"category_name": "藤蔓状宝可梦",
+	"evolution": [
+		"114",
+		"465"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"被敌人抓住后藤蔓会一下断开。因为完全不疼，所以它会趁那个空当逃走。第二天就能长出新的藤蔓。"
+	],
+	"type": [
+		{
+			"id": "grass",
+			"name": "草"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80924"
+	},
+	"zukan_id": "115",
+	"zukan_sub_id": 0,
+	"pokemon_name": "袋兽",
+	"pokemon_sub_name": "",
+	"weight": 80,
+	"height": 2.2,
+	"file_name": "/img/pm/c959a88d4dd9e2007d466535100ae40439d8ff82.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"早起",
+		"胆量"
+	],
+	"ability_info": [
+		"即使变为睡眠状态，也能以２倍的速度提早醒来。",
+		"一般属性和格斗属性的招式可以击中幽灵属性的宝可梦。"
+	],
+	"category_name": "亲子宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"不能接近从袋里溜出来玩耍的孩子。因为它的母亲就在某处守护着它。",
+		"会把自己的孩子放入腹袋里保护起来。对于胆敢伤害自己孩子的家伙，会毫不留情地予以痛击。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80925"
+	},
+	"zukan_id": "115",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级袋兽",
+	"pokemon_sub_name": "",
+	"weight": 100,
+	"height": 2.2,
+	"file_name": "/img/pm/57e3691f703f91a79f5e5448b683c7fa1bc43e0c.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"亲子爱"
+	],
+	"ability_info": [
+		"亲子俩可以合计攻击２次。"
+	],
+	"category_name": "亲子宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"看到孩子超级进化后的背影，母亲就会想起终将来临的离别之日。",
+		"沐浴惊人能量后的孩子得到了暂时性的成长。母亲却十分焦虑。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80926"
+	},
+	"zukan_id": "116",
+	"zukan_sub_id": 0,
+	"pokemon_name": "墨海马",
+	"pokemon_sub_name": "",
+	"weight": 8,
+	"height": 0.4,
+	"file_name": "/img/pm/7ef51aff01e21866babb18f14bac42790a65d5db.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"狙击手",
+		"悠游自如"
+	],
+	"ability_info": [
+		"击中要害时，威力会变得更强。",
+		"下雨天气时，速度会提高。"
+	],
+	"category_name": "龙宝可梦",
+	"evolution": [
+		"116",
+		"117",
+		"230"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"如果感到危险，就会条件反射地从嘴里吐出漆黑的墨汁逃跑。能灵巧地摆动背鳍游动。",
+		"吃小虫子或岩石滩上的苔藓。海流变快后，为了不让自己被冲走，就会用尾巴缠住岩石或珊瑚。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80927"
+	},
+	"zukan_id": "117",
+	"zukan_sub_id": 0,
+	"pokemon_name": "海刺龙",
+	"pokemon_sub_name": "",
+	"weight": 25,
+	"height": 1.2,
+	"file_name": "/img/pm/cb1a1ab939d93ed0504753e1fbf7a4e180f733d5.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"毒刺",
+		"狙击手"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手变为中毒状态。",
+		"击中要害时，威力会变得更强。"
+	],
+	"category_name": "龙宝可梦",
+	"evolution": [
+		"116",
+		"117",
+		"230"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"会通过旋转身体制造漩涡。在用强到连渔船都会被卷入的激流让猎物变弱后，会将其整个吞掉。",
+		"该宝可梦会潜入珊瑚枝的缝隙中睡觉。有些时候，人在采珊瑚时会因没有发现海刺龙而被毒刺扎伤。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80928"
+	},
+	"zukan_id": "118",
+	"zukan_sub_id": 0,
+	"pokemon_name": "角金鱼",
+	"pokemon_sub_name": "",
+	"weight": 15,
+	"height": 0.6,
+	"file_name": "/img/pm/266278a59d39e9770b8f34c9a635243133334a28.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"悠游自如",
+		"水幕"
+	],
+	"ability_info": [
+		"下雨天气时，速度会提高。",
+		"将水幕裹在身上，不会变为灼伤状态。"
+	],
+	"category_name": "金鱼宝可梦",
+	"evolution": [
+		"118",
+		"119"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"会飘飘然地摇摆着像裙子一样的鱼鳍游动，所以它被称为水中公主。",
+		"虽然漂亮的尾鳍是其特征，但角金鱼之间好像会比谁的角更粗更尖锐。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80929"
+	},
+	"zukan_id": "119",
+	"zukan_sub_id": 0,
+	"pokemon_name": "金鱼王",
+	"pokemon_sub_name": "",
+	"weight": 39,
+	"height": 1.3,
+	"file_name": "/img/pm/f395dd22d77d0a3f298c4bd261a3c56ecfbdace7.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"悠游自如",
+		"水幕"
+	],
+	"ability_info": [
+		"下雨天气时，速度会提高。",
+		"将水幕裹在身上，不会变为灼伤状态。"
+	],
+	"category_name": "金鱼宝可梦",
+	"evolution": [
+		"118",
+		"119"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"雄性会在河底跳舞并以此来吸引雌性。雌性会聚集到跳得最美的雄性身边。",
+		"头上的角会像钻头一样旋转，即便是坚硬的岩石也能一下子贯穿。雄性有着鲜艳的颜色。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8092a"
+	},
+	"zukan_id": "120",
+	"zukan_sub_id": 0,
+	"pokemon_name": "海星星",
+	"pokemon_sub_name": "",
+	"weight": 34.5,
+	"height": 0.8,
+	"file_name": "/img/pm/2b4031883bcdc61d67e67673af8d893bfa3dba5c.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"发光",
+		"自然回复"
+	],
+	"ability_info": [
+		"通过让周围变亮，变得容易遇到野生的宝可梦。",
+		"回到同行队伍后，异常状态就会被治愈。"
+	],
+	"category_name": "星形宝可梦",
+	"evolution": [
+		"120",
+		"121"
+	],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"不管受了多少伤也没问题。再生能力很高，所以半天左右就会复原。",
+		"在各地都流传着星屑掉到海里就会变成海星星这样的民间故事。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8092b"
+	},
+	"zukan_id": "121",
+	"zukan_sub_id": 0,
+	"pokemon_name": "宝石海星",
+	"pokemon_sub_name": "",
+	"weight": 80,
+	"height": 1.1,
+	"file_name": "/img/pm/6f6ffd1276a2a1fb4aa9843f9e2fed9e79d2ba5f.png",
+	"pokemon_type_id": "psychic,water",
+	"pokemon_type_name": "超能力,水",
+	"abilities_name": [
+		"发光",
+		"自然回复"
+	],
+	"ability_info": [
+		"通过让周围变亮，变得容易遇到野生的宝可梦。",
+		"回到同行队伍后，异常状态就会被治愈。"
+	],
+	"category_name": "谜宝可梦",
+	"evolution": [
+		"120",
+		"121"
+	],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"能旋转几何图形一样的身体在水中游泳。好像一直在发射神秘的电波。",
+		"发光的核心被称为海之宝石。有人将它变成昂贵的饰品，在暗地里偷偷地买卖。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8092c"
+	},
+	"zukan_id": "122",
+	"zukan_sub_id": 0,
+	"pokemon_name": "魔墙人偶",
+	"pokemon_sub_name": "",
+	"weight": 54.5,
+	"height": 1.3,
+	"file_name": "/img/pm/3bf0162c653873e4ecf5810c830191bac19cb540.png",
+	"pokemon_type_id": "fairy,psychic",
+	"pokemon_type_name": "妖精,超能力",
+	"abilities_name": [
+		"过滤",
+		"隔音"
+	],
+	"ability_info": [
+		"受到效果绝佳的攻击时，可以减弱其威力。",
+		"通过屏蔽声音，不受到声音招式的攻击。"
+	],
+	"category_name": "屏障宝可梦",
+	"evolution": [
+		"439",
+		"122"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"能通过默剧生成一道看不见的墙壁。如果不赞美它的话，连环巴掌就会向你袭来。",
+		"有着非凡的默剧表演实力。在你看入迷的时候，不知不觉间就会出现一面真正的墙壁。"
+	],
+	"type": [
+		{
+			"id": "fairy",
+			"name": "妖精"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "poison",
+			"name": "毒"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8092d"
+	},
+	"zukan_id": "123",
+	"zukan_sub_id": 0,
+	"pokemon_name": "飞天螳螂",
+	"pokemon_sub_name": "",
+	"weight": 56,
+	"height": 1.5,
+	"file_name": "/img/pm/da1f6bb1f75f73b684a5b6902694912b697f6a4d.png",
+	"pokemon_type_id": "bug,flying",
+	"pokemon_type_name": "虫,飞行",
+	"abilities_name": [
+		"虫之预感",
+		"技术高手"
+	],
+	"ability_info": [
+		"ＨＰ减少的时候，虫属性的招式威力会提高。",
+		"攻击时可以将低威力招式的威力提高。"
+	],
+	"category_name": "螳螂宝可梦",
+	"evolution": [
+		"123",
+		"212"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"连眼睛都无法看清的麻利手法甚至能切开空气。它被称为忍者，在阿罗拉非常具有人气。",
+		"２把锋利的镰刀并不单单是武器。还能灵活地运用它们来切割猎物，然后食用。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "flying",
+			"name": "飞行"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8092e"
+	},
+	"zukan_id": "124",
+	"zukan_sub_id": 0,
+	"pokemon_name": "迷唇姐",
+	"pokemon_sub_name": "",
+	"weight": 40.6,
+	"height": 1.4,
+	"file_name": "/img/pm/8838c65ba52945317cda0d31f8de760860dd71ec.png",
+	"pokemon_type_id": "ice,psychic",
+	"pokemon_type_name": "冰,超能力",
+	"abilities_name": [
+		"预知梦",
+		"迟钝"
+	],
+	"ability_info": [
+		"出场时，只读取１个对手拥有的招式。",
+		"因为感觉迟钝，不会变为着迷和被挑衅状态。"
+	],
+	"category_name": "人形宝可梦",
+	"evolution": [
+		"238",
+		"124"
+	],
+	"gender_name": [
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"神奇的叫声听起来就像人类的语言一样。也有些音乐家会谱写一些让迷唇姐唱的曲子。",
+		"会按独特的节奏扭动腰部。栖息在阿罗拉的迷唇姐，那动作更是妙不可言。"
+	],
+	"type": [
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8092f"
+	},
+	"zukan_id": "125",
+	"zukan_sub_id": 0,
+	"pokemon_name": "电击兽",
+	"pokemon_sub_name": "",
+	"weight": 30,
+	"height": 1.1,
+	"file_name": "/img/pm/af28498e1bd42cb316b6e2fa0c34b68f2ce89ce8.png",
+	"pokemon_type_id": "electric",
+	"pokemon_type_name": "电",
+	"abilities_name": [
+		"静电"
+	],
+	"ability_info": [
+		"身上带有静电，有时会让接触到的对手麻痹。"
+	],
+	"category_name": "电击宝可梦",
+	"evolution": [
+		"239",
+		"125",
+		"466"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"虽然引起停电的原因多被归咎于它们身上，但其实很多是电力公司的过失。",
+		"全身都带着电。会一圈圈抡动手臂进行充电后再出拳。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80930"
+	},
+	"zukan_id": "126",
+	"zukan_sub_id": 0,
+	"pokemon_name": "鸭嘴火兽",
+	"pokemon_sub_name": "",
+	"weight": 44.5,
+	"height": 1.3,
+	"file_name": "/img/pm/fd5333ca5e2c3de321183c65cf30536cfcd478b0.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"火焰之躯"
+	],
+	"ability_info": [
+		"有时会让接触到自己的对手变为灼伤状态。"
+	],
+	"category_name": "吐火宝可梦",
+	"evolution": [
+		"240",
+		"126",
+		"467"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"越热的地方，它的身体就会越好。据说比起其他地方来，阿罗拉的鸭嘴火兽长得更壮实。",
+		"全身都在燃烧，光是呼出的气息就带着高温，打喷嚏时会同时喷出火焰。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80931"
+	},
+	"zukan_id": "127",
+	"zukan_sub_id": 0,
+	"pokemon_name": "凯罗斯",
+	"pokemon_sub_name": "",
+	"weight": 55,
+	"height": 1.5,
+	"file_name": "/img/pm/46dc016521478f4d19e78f6547dd58420a793657.png",
+	"pokemon_type_id": "bug",
+	"pokemon_type_name": "虫",
+	"abilities_name": [
+		"怪力钳",
+		"破格"
+	],
+	"ability_info": [
+		"因为拥有以力量自豪的钳子，不会被对手降低攻击。",
+		"可以不受对手特性的干扰，向对手使出招式。"
+	],
+	"category_name": "锹形虫宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"虽然身体壮实，但弱点是怕冷。到了晚上，就会将身体埋在树叶中睡觉。",
+		"会和锹农炮虫争夺领地。在阿罗拉，不知为何它和赫拉克罗斯的关系好像相当不错。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80932"
+	},
+	"zukan_id": "127",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级凯罗斯",
+	"pokemon_sub_name": "",
+	"weight": 59,
+	"height": 1.7,
+	"file_name": "/img/pm/89a433428cd759afbc0bd29564de8dda00093900.png",
+	"pokemon_type_id": "bug,flying",
+	"pokemon_type_name": "虫,飞行",
+	"abilities_name": [
+		"飞行皮肤"
+	],
+	"ability_info": [
+		"一般属性的招式会变为飞行属性。威力会少量提高。"
+	],
+	"category_name": "锹形虫宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			8
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"会以极快的速度飞来飞去，并寻找对手的可乘之机。目的是用巨大的钳子穿刺对手。",
+		"超级进化后变得可以飞行了。或许是因为太过高兴，它几乎不会降落到地面上。"
+	],
+	"type": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "flying",
+			"name": "飞行"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80933"
+	},
+	"zukan_id": "128",
+	"zukan_sub_id": 0,
+	"pokemon_name": "肯泰罗",
+	"pokemon_sub_name": "",
+	"weight": 88.4,
+	"height": 1.4,
+	"file_name": "/img/pm/a0b41d9051cb5c540734d103964d7791105dd243.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"愤怒穴位",
+		"威吓"
+	],
+	"ability_info": [
+		"要害被击中时，会大发雷霆，攻击力变为最大。",
+		"出场时威吓对手，让其退缩，降低对手的攻击。"
+	],
+	"category_name": "暴牛宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"male"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			6
+		]
+	],
+	"story": [
+		"比起其他地区来，阿罗拉的肯泰罗更温和一点。这好像和当地的气候有关。",
+		"会组成一个群体生活。在群体中，谁的角最粗最长，并伤痕累累，谁就是老大。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80934"
+	},
+	"zukan_id": "129",
+	"zukan_sub_id": 0,
+	"pokemon_name": "鲤鱼王",
+	"pokemon_sub_name": "",
+	"weight": 10,
+	"height": 0.9,
+	"file_name": "/img/pm/3755f6d1176c7f8c64f663dae13ef9f1406d007a.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"悠游自如"
+	],
+	"ability_info": [
+		"下雨天气时，速度会提高。"
+	],
+	"category_name": "鱼宝可梦",
+	"evolution": [
+		"129",
+		"130"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			1
+		],
+		[
+			"攻击",
+			1
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			1
+		],
+		[
+			"特防",
+			1
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"生命力顽强，即便在污水中也毫不在意。生活在世界各地的水边。",
+		"在非常遥远的过去，它还是十分强大的，但随着时间的推移，它变得越来越弱，越来越弱了。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80935"
+	},
+	"zukan_id": "130",
+	"zukan_sub_id": 0,
+	"pokemon_name": "暴鲤龙",
+	"pokemon_sub_name": "",
+	"weight": 235,
+	"height": 6.5,
+	"file_name": "/img/pm/ee070a971884e2c4da87d7a728e5821f9636f56d.png",
+	"pokemon_type_id": "flying,water",
+	"pokemon_type_name": "飞行,水",
+	"abilities_name": [
+		"威吓"
+	],
+	"ability_info": [
+		"出场时威吓对手，让其退缩，降低对手的攻击。"
+	],
+	"category_name": "凶恶宝可梦",
+	"evolution": [
+		"129",
+		"130"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"进化能量猛烈刺激脑细胞的结果就是，它的性格变得非常的残暴。",
+		"能不断地吐出破坏光线，将周围一带燃烧殆尽。也有一些地区称其为破坏神。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80936"
+	},
+	"zukan_id": "130",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级暴鲤龙",
+	"pokemon_sub_name": "",
+	"weight": 305,
+	"height": 6.5,
+	"file_name": "/img/pm/d1b4b9ec796de5d101e85258987036767c37a34b.png",
+	"pokemon_type_id": "dark,water",
+	"pokemon_type_name": "恶,水",
+	"abilities_name": [
+		"破格"
+	],
+	"ability_info": [
+		"可以不受对手特性的干扰，向对手使出招式。"
+	],
+	"category_name": "凶恶宝可梦",
+	"evolution": [
+		"129",
+		"130"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			8
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"能以音速飞出水面。如果被卷入其中的话，即使是大船也会被折成两段。",
+		"身体在超级进化时承受了很大的负担。会因压力而越发粗暴地横冲直撞。"
+	],
+	"type": [
+		{
+			"id": "dark",
+			"name": "恶"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80937"
+	},
+	"zukan_id": "131",
+	"zukan_sub_id": 0,
+	"pokemon_name": "拉普拉斯",
+	"pokemon_sub_name": "",
+	"weight": 220,
+	"height": 2.5,
+	"file_name": "/img/pm/1583b45023aabc829f405629e4b0d7259f80a2c0.png",
+	"pokemon_type_id": "ice,water",
+	"pokemon_type_name": "冰,水",
+	"abilities_name": [
+		"硬壳盔甲",
+		"储水"
+	],
+	"ability_info": [
+		"被坚硬的壳保护着，对手的攻击不会击中要害。",
+		"受到水属性的招式攻击时，不会受到伤害，而是会回复。"
+	],
+	"category_name": "乘载宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			5
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"重点保护过头导致数量增加太多。据说在拉普拉斯过多的海域，鱼宝可梦的数量已经减少了。",
+		"喜欢乘载着人游泳。在阿罗拉地区，这是重要的水上交通方式。"
+	],
+	"type": [
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80938"
+	},
+	"zukan_id": "132",
+	"zukan_sub_id": 0,
+	"pokemon_name": "百变怪",
+	"pokemon_sub_name": "",
+	"weight": 4,
+	"height": 0.3,
+	"file_name": "/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"柔软"
+	],
+	"ability_info": [
+		"因为身体柔软，不会变为麻痹状态。"
+	],
+	"category_name": "变身宝可梦",
+	"evolution": [],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"会变身成它看到的东西。但对于不在眼前的东西，它只能靠记忆来变身，所以有时也会失败。",
+		"可以变身成任何东西，但好像每只百变怪都有着自己擅长和不擅长变形的东西。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80939"
+	},
+	"zukan_id": "133",
+	"zukan_sub_id": 0,
+	"pokemon_name": "伊布",
+	"pokemon_sub_name": "",
+	"weight": 6.5,
+	"height": 0.3,
+	"file_name": "/img/pm/1fab9d9b86c9071e3f10c14b7869e3ec338f1429.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"适应力",
+		"逃跑"
+	],
+	"ability_info": [
+		"与自身同属性的招式威力会提高。",
+		"一定能从野生宝可梦那儿逃走。"
+	],
+	"category_name": "进化宝可梦",
+	"evolution": [
+		"133",
+		"134 135 136 196 197 470 471 700"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"有着易受周围影响的遗传基因。就连长相都会变得和成为它主人的训练家很像哦。",
+		"至今未弄清为何只有伊布携带着非常不稳定的遗传基因。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8093a"
+	},
+	"zukan_id": "134",
+	"zukan_sub_id": 0,
+	"pokemon_name": "水伊布",
+	"pokemon_sub_name": "",
+	"weight": 29,
+	"height": 1,
+	"file_name": "/img/pm/6a744cd8a7461d218c7dab0ff084cad30c4c6872.png",
+	"pokemon_type_id": "water",
+	"pokemon_type_name": "水",
+	"abilities_name": [
+		"储水"
+	],
+	"ability_info": [
+		"受到水属性的招式攻击时，不会受到伤害，而是会回复。"
+	],
+	"category_name": "吐泡宝可梦",
+	"evolution": [
+		"133",
+		"134 135 136 196 197 470 471 700"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			5
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"会通过鳍来感知周围的水分。如果它开始微微颤抖，那么数小时后就会下雨。",
+		"美丽的水边是其主要的栖息地。如果感觉有外敌来袭，它就会跳入水中躲起来。"
+	],
+	"type": [
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8093b"
+	},
+	"zukan_id": "135",
+	"zukan_sub_id": 0,
+	"pokemon_name": "雷伊布",
+	"pokemon_sub_name": "",
+	"weight": 24.5,
+	"height": 0.8,
+	"file_name": "/img/pm/117467cd6471aded1857f44f639965cc3305c4af.png",
+	"pokemon_type_id": "electric",
+	"pokemon_type_name": "电",
+	"abilities_name": [
+		"蓄电"
+	],
+	"ability_info": [
+		"受到电属性的招式攻击时，不会受到伤害，而是会回复。"
+	],
+	"category_name": "雷宝可梦",
+	"evolution": [
+		"133",
+		"134 135 136 196 197 470 471 700"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			7
+		]
+	],
+	"story": [
+		"能将竖起来的毛发像针一样射出去。会趁着敌人虚弱的时候，用１万伏特的电击解决它。",
+		"肺中有能产生电力的器官。从它的吐息中，能听到里面混杂着噼里啪啦的电流声。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8093c"
+	},
+	"zukan_id": "136",
+	"zukan_sub_id": 0,
+	"pokemon_name": "火伊布",
+	"pokemon_sub_name": "",
+	"weight": 25,
+	"height": 0.9,
+	"file_name": "/img/pm/c837f7f95ed1870458db055583e78c33152c556e.png",
+	"pokemon_type_id": "fire",
+	"pokemon_type_name": "火",
+	"abilities_name": [
+		"引火"
+	],
+	"ability_info": [
+		"受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。"
+	],
+	"category_name": "火宝可梦",
+	"evolution": [
+		"133",
+		"134 135 136 196 197 470 471 700"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			7
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"兴奋时，它体内的火袋就会着火，体温会上升到９００度。",
+		"大口吸入空气就是要攻击的前兆。这意味着１７００度的火焰即将来袭。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8093d"
+	},
+	"zukan_id": "137",
+	"zukan_sub_id": 0,
+	"pokemon_name": "多边兽",
+	"pokemon_sub_name": "",
+	"weight": 36.5,
+	"height": 0.8,
+	"file_name": "/img/pm/211c6c26da2a55b6717119f26bb74a6db7dc9b21.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"下载",
+		"复制"
+	],
+	"ability_info": [
+		"比较对手的防御和特防，根据较低的那项能力相应地提高自己的攻击或特攻。",
+		"出场时，复制对手的特性，变为与之相同的特性。"
+	],
+	"category_name": "虚拟宝可梦",
+	"evolution": [
+		"137",
+		"233",
+		"474"
+	],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"由２０年前梦想着宇宙的科学家们创造而成。那梦想至今仍未实现。",
+		"由大约２０年前的科学力量创造出来的宝可梦，所以现在很多部分已经过时了。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8093e"
+	},
+	"zukan_id": "138",
+	"zukan_sub_id": 0,
+	"pokemon_name": "菊石兽",
+	"pokemon_sub_name": "",
+	"weight": 7.5,
+	"height": 0.4,
+	"file_name": "/img/pm/1f2291efe7407a5585b30792e7b81829cc120a0b.png",
+	"pokemon_type_id": "rock,water",
+	"pokemon_type_name": "岩石,水",
+	"abilities_name": [
+		"硬壳盔甲",
+		"悠游自如"
+	],
+	"ability_info": [
+		"被坚硬的壳保护着，对手的攻击不会击中要害。",
+		"下雨天气时，速度会提高。"
+	],
+	"category_name": "漩涡宝可梦",
+	"evolution": [
+		"138",
+		"139"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			2
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			4
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"从古代的化石复原而来。在很久以前还是海洋的地方能发掘出它的贝壳化石。",
+		"生活在古代海洋中的宝可梦。好像曾是始祖大鸟的食物，发现过带有齿痕的化石。"
+	],
+	"type": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8093f"
+	},
+	"zukan_id": "139",
+	"zukan_sub_id": 0,
+	"pokemon_name": "多刺菊石兽",
+	"pokemon_sub_name": "",
+	"weight": 35,
+	"height": 1,
+	"file_name": "/img/pm/c9b99543b14fc3859bb695d3f45d2e38163aacc0.png",
+	"pokemon_type_id": "rock,water",
+	"pokemon_type_name": "岩石,水",
+	"abilities_name": [
+		"硬壳盔甲",
+		"悠游自如"
+	],
+	"ability_info": [
+		"被坚硬的壳保护着，对手的攻击不会击中要害。",
+		"下雨天气时，速度会提高。"
+	],
+	"category_name": "漩涡宝可梦",
+	"evolution": [
+		"138",
+		"139"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"用触手缠住猎物并让其无法动弹后，就会用锋利的牙齿使出致命一击。",
+		"被认为是由于身上沉重的壳而灭绝的古代宝可梦。好像是章鱼桶的远祖。"
+	],
+	"type": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80940"
+	},
+	"zukan_id": "140",
+	"zukan_sub_id": 0,
+	"pokemon_name": "化石盔",
+	"pokemon_sub_name": "",
+	"weight": 11.5,
+	"height": 0.5,
+	"file_name": "/img/pm/f0757ab6ec3fa6574202a4d1646e2967bbe6fd03.png",
+	"pokemon_type_id": "rock,water",
+	"pokemon_type_name": "岩石,水",
+	"abilities_name": [
+		"战斗盔甲",
+		"悠游自如"
+	],
+	"ability_info": [
+		"被坚硬的甲壳守护着，不会被对手的攻击击中要害。",
+		"下雨天气时，速度会提高。"
+	],
+	"category_name": "甲壳宝可梦",
+	"evolution": [
+		"140",
+		"141"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"除某些极少数地方外，该宝可梦已基本灭绝。会用坚硬的外壳保护身体。",
+		"３亿年前繁衍兴旺的宝可梦。据说在某些地区，至今仍能偶尔看见活着的化石盔。"
+	],
+	"type": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80941"
+	},
+	"zukan_id": "141",
+	"zukan_sub_id": 0,
+	"pokemon_name": "镰刀盔",
+	"pokemon_sub_name": "",
+	"weight": 40.5,
+	"height": 1.3,
+	"file_name": "/img/pm/b27f8689027a59c36e875834453df03f4b200ce9.png",
+	"pokemon_type_id": "rock,water",
+	"pokemon_type_name": "岩石,水",
+	"abilities_name": [
+		"战斗盔甲",
+		"悠游自如"
+	],
+	"ability_info": [
+		"被坚硬的甲壳守护着，不会被对手的攻击击中要害。",
+		"下雨天气时，速度会提高。"
+	],
+	"category_name": "甲壳宝可梦",
+	"evolution": [
+		"140",
+		"141"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			5
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"能以大约２９节的速度游动。快速接近猎物后，会用镰刀撕裂猎物并给予其致命一击。",
+		"为了在陆地上也能活动，身体开始了演化，但没等演化完，它就灭绝了。"
+	],
+	"type": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "ground",
+			"name": "地面"
+		},
+		{
+			"id": "grass",
+			"name": "草"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80942"
+	},
+	"zukan_id": "142",
+	"zukan_sub_id": 0,
+	"pokemon_name": "化石翼龙",
+	"pokemon_sub_name": "",
+	"weight": 59,
+	"height": 1.8,
+	"file_name": "/img/pm/0fa47ef9ac7be2f3c447e538152c69e9e2bd3720.png",
+	"pokemon_type_id": "flying,rock",
+	"pokemon_type_name": "飞行,岩石",
+	"abilities_name": [
+		"压迫感",
+		"坚硬脑袋"
+	],
+	"ability_info": [
+		"给予对手压迫感，大量减少其使用招式的ＰＰ。",
+		"即使使出会受反作用力伤害的招式，ＨＰ也不会减少。"
+	],
+	"category_name": "化石宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			7
+		]
+	],
+	"story": [
+		"会以一副傲然的姿态翱翔在古代的广袤天空中。降落到地面后，它好像会变弱，走起路来也会变慢。",
+		"由琥珀中残留的遗传基因复原而来。性情比想像的还要粗暴，甚至还出现了牺牲者。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80943"
+	},
+	"zukan_id": "142",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级化石翼龙",
+	"pokemon_sub_name": "",
+	"weight": 79,
+	"height": 2.1,
+	"file_name": "/img/pm/f6e2a0e9814acc73d4e030556be5ab833f6252ea.png",
+	"pokemon_type_id": "flying,rock",
+	"pokemon_type_name": "飞行,岩石",
+	"abilities_name": [
+		"硬爪"
+	],
+	"ability_info": [
+		"接触到对手的招式威力会提高。"
+	],
+	"category_name": "化石宝可梦",
+	"evolution": [],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			7
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			8
+		]
+	],
+	"story": [
+		"因超级进化而失去的遗传基因重新复苏，覆盖全身的尖锐岩石也去而复返。",
+		"会攻击所有会动的东西。超级进化对身体造成了负担，所以会非常的暴躁不安。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "rock",
+			"name": "岩石"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80944"
+	},
+	"zukan_id": "143",
+	"zukan_sub_id": 0,
+	"pokemon_name": "卡比兽",
+	"pokemon_sub_name": "",
+	"weight": 460,
+	"height": 2.1,
+	"file_name": "/img/pm/a42f1e83fdb6809384f2461670a1d81e227df05c.png",
+	"pokemon_type_id": "normal",
+	"pokemon_type_name": "一般",
+	"abilities_name": [
+		"免疫",
+		"厚脂肪"
+	],
+	"ability_info": [
+		"因为体内拥有免疫能力，不会变为中毒状态。",
+		"因为被厚厚的脂肪保护着，会让火属性和冰属性的招式伤害减半。"
+	],
+	"category_name": "瞌睡宝可梦",
+	"evolution": [
+		"446",
+		"143"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			6
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			2
+		]
+	],
+	"story": [
+		"只对吃感兴趣。即便是在它睡午觉时跳到它肚子上，它也毫不在意。",
+		"平时不是吃就是睡，但如果因某些事而认真起来的话，好像就会发挥出惊人的力量。"
+	],
+	"type": [
+		{
+			"id": "normal",
+			"name": "一般"
+		}
+	],
+	"weakness": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80945"
+	},
+	"zukan_id": "144",
+	"zukan_sub_id": 0,
+	"pokemon_name": "急冻鸟",
+	"pokemon_sub_name": "",
+	"weight": 55.4,
+	"height": 1.7,
+	"file_name": "/img/pm/a1b9576b6cf4bde4abeb391af3b55c5370205557.png",
+	"pokemon_type_id": "flying,ice",
+	"pokemon_type_name": "飞行,冰",
+	"abilities_name": [
+		"压迫感"
+	],
+	"ability_info": [
+		"给予对手压迫感，大量减少其使用招式的ＰＰ。"
+	],
+	"category_name": "冰冻宝可梦",
+	"evolution": [],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"操控冰的传说的鸟宝可梦。因为拍动翅膀就能冷却空气，所以据说急冻鸟飞过就会下雪。"
+	],
+	"type": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "steel",
+			"name": "钢"
+		},
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80946"
+	},
+	"zukan_id": "145",
+	"zukan_sub_id": 0,
+	"pokemon_name": "闪电鸟",
+	"pokemon_sub_name": "",
+	"weight": 52.6,
+	"height": 1.6,
+	"file_name": "/img/pm/427bb0b94b44ff442449cfba55dc6829df76891c.png",
+	"pokemon_type_id": "electric,flying",
+	"pokemon_type_name": "电,飞行",
+	"abilities_name": [
+		"压迫感"
+	],
+	"ability_info": [
+		"给予对手压迫感，大量减少其使用招式的ＰＰ。"
+	],
+	"category_name": "电击宝可梦",
+	"evolution": [],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"操控电的传说的鸟宝可梦。平时生活在雷云之中。被雷电击中，体内就会涌现出力量。"
+	],
+	"type": [
+		{
+			"id": "electric",
+			"name": "电"
+		},
+		{
+			"id": "flying",
+			"name": "飞行"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80947"
+	},
+	"zukan_id": "146",
+	"zukan_sub_id": 0,
+	"pokemon_name": "火焰鸟",
+	"pokemon_sub_name": "",
+	"weight": 60,
+	"height": 2,
+	"file_name": "/img/pm/9d83c451429ae1858ff1588ba5724ffbad4b55c1.png",
+	"pokemon_type_id": "fire,flying",
+	"pokemon_type_name": "火,飞行",
+	"abilities_name": [
+		"压迫感"
+	],
+	"ability_info": [
+		"给予对手压迫感，大量减少其使用招式的ＰＰ。"
+	],
+	"category_name": "火焰宝可梦",
+	"evolution": [],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			6
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"操控火的传说的鸟宝可梦。据说身体受伤后，会进入火山口的熔岩里，燃烧全身治愈伤口。"
+	],
+	"type": [
+		{
+			"id": "fire",
+			"name": "火"
+		},
+		{
+			"id": "flying",
+			"name": "飞行"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "water",
+			"name": "水"
+		},
+		{
+			"id": "electric",
+			"name": "电"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80948"
+	},
+	"zukan_id": "147",
+	"zukan_sub_id": 0,
+	"pokemon_name": "迷你龙",
+	"pokemon_sub_name": "",
+	"weight": 3.3,
+	"height": 1.8,
+	"file_name": "/img/pm/27a6cc8fdc7abc93def1b061b582dac7a93430c1.png",
+	"pokemon_type_id": "dragon",
+	"pokemon_type_name": "龙",
+	"abilities_name": [
+		"蜕皮"
+	],
+	"ability_info": [
+		"通过蜕去身上的皮，有时会治愈异常状态。"
+	],
+	"category_name": "龙宝可梦",
+	"evolution": [
+		"147",
+		"148",
+		"149"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			2
+		],
+		[
+			"攻击",
+			3
+		],
+		[
+			"防御",
+			2
+		],
+		[
+			"特攻",
+			2
+		],
+		[
+			"特防",
+			2
+		],
+		[
+			"速度",
+			3
+		]
+	],
+	"story": [
+		"以接近每天一次的频率反复蜕皮并长大。刚蜕完皮的皮肤很娇嫩。",
+		"由于还很弱小，所以会潜伏在水底悄悄地生活．靠着吃沉入水中的东西为生。"
+	],
+	"type": [
+		{
+			"id": "dragon",
+			"name": "龙"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "dragon",
+			"name": "龙"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e80949"
+	},
+	"zukan_id": "148",
+	"zukan_sub_id": 0,
+	"pokemon_name": "哈克龙",
+	"pokemon_sub_name": "",
+	"weight": 16.5,
+	"height": 4,
+	"file_name": "/img/pm/f6ae3010972469372d493e3cc4a516c574df3974.png",
+	"pokemon_type_id": "dragon",
+	"pokemon_type_name": "龙",
+	"abilities_name": [
+		"蜕皮"
+	],
+	"ability_info": [
+		"通过蜕去身上的皮，有时会治愈异常状态。"
+	],
+	"category_name": "龙宝可梦",
+	"evolution": [
+		"147",
+		"148",
+		"149"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			3
+		],
+		[
+			"攻击",
+			4
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			3
+		],
+		[
+			"特防",
+			3
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"据说在新年时，如果能看到它扭动着身子在空中飞翔的样子，那么这一年就能健健康康的。",
+		"人们相信它能操纵天气，所以在哈克龙栖息的湖里，供品总是源源不断。"
+	],
+	"type": [
+		{
+			"id": "dragon",
+			"name": "龙"
+		}
+	],
+	"weakness": [
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "dragon",
+			"name": "龙"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8094a"
+	},
+	"zukan_id": "149",
+	"zukan_sub_id": 0,
+	"pokemon_name": "快龙",
+	"pokemon_sub_name": "",
+	"weight": 210,
+	"height": 2.2,
+	"file_name": "/img/pm/ecdc5527d67488c92c242e34458844fe2afac525.png",
+	"pokemon_type_id": "dragon,flying",
+	"pokemon_type_name": "龙,飞行",
+	"abilities_name": [
+		"精神力"
+	],
+	"ability_info": [
+		"通过锻炼精神，不会因对手的攻击而畏缩。"
+	],
+	"category_name": "龙宝可梦",
+	"evolution": [
+		"147",
+		"148",
+		"149"
+	],
+	"gender_name": [
+		"male",
+		"female"
+	],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			7
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			4
+		]
+	],
+	"story": [
+		"心地善良的宝可梦，经常能听到它救助了在海里溺水的人或宝可梦的消息。",
+		"即便是狂风暴雨的海上，它也能波澜不惊地飞过。目睹过它那身姿的船长称其为大海的化身。"
+	],
+	"type": [
+		{
+			"id": "dragon",
+			"name": "龙"
+		},
+		{
+			"id": "flying",
+			"name": "飞行"
+		}
+	],
+	"weakness": [
+		{
+			"id": "rock",
+			"name": "岩石"
+		},
+		{
+			"id": "ice",
+			"name": "冰"
+		},
+		{
+			"id": "dragon",
+			"name": "龙"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8094b"
+	},
+	"zukan_id": "150",
+	"zukan_sub_id": 0,
+	"pokemon_name": "超梦",
+	"pokemon_sub_name": "",
+	"weight": 122,
+	"height": 2,
+	"file_name": "/img/pm/ad7ffb53f984a6623c53f01cfbc06fc8565ecbd4.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"压迫感"
+	],
+	"ability_info": [
+		"给予对手压迫感，大量减少其使用招式的ＰＰ。"
+	],
+	"category_name": "基因宝可梦",
+	"evolution": [],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			6
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			8
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			7
+		]
+	],
+	"story": [
+		"通过操作遗传基因而制造出来的宝可梦。人类的科学力量可以造出它的身体，却无法造出一颗温柔的心。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8094c"
+	},
+	"zukan_id": "150",
+	"zukan_sub_id": 1,
+	"pokemon_name": "超级超梦Ｘ",
+	"pokemon_sub_name": "",
+	"weight": 127,
+	"height": 2.3,
+	"file_name": "/img/pm/dc96945bf5cb7f776f0272bf17ebf0d4593a5849.png",
+	"pokemon_type_id": "fighting,psychic",
+	"pokemon_type_name": "格斗,超能力",
+	"abilities_name": [
+		"不屈之心"
+	],
+	"ability_info": [
+		"每次畏缩时，不屈之心就会燃起，速度也会提高。"
+	],
+	"category_name": "基因宝可梦",
+	"evolution": [],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			10
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			8
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			7
+		]
+	],
+	"story": [
+		"通过操作遗传基因而制造出来的宝可梦。人类的科学力量可以造出它的身体，却无法造出一颗温柔的心。"
+	],
+	"type": [
+		{
+			"id": "fighting",
+			"name": "格斗"
+		},
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8094d"
+	},
+	"zukan_id": "150",
+	"zukan_sub_id": 2,
+	"pokemon_name": "超级超梦Ｙ",
+	"pokemon_sub_name": "",
+	"weight": 33,
+	"height": 1.5,
+	"file_name": "/img/pm/86a8f44da4fc7f15b98716ef69d6b794f15d15e7.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"不眠"
+	],
+	"ability_info": [
+		"因为是不会睡觉的体质，所以不会变为睡眠状态。"
+	],
+	"category_name": "基因宝可梦",
+	"evolution": [],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			8
+		],
+		[
+			"防御",
+			3
+		],
+		[
+			"特攻",
+			10
+		],
+		[
+			"特防",
+			5
+		],
+		[
+			"速度",
+			7
+		]
+	],
+	"story": [
+		"通过操作遗传基因而制造出来的宝可梦。人类的科学力量可以造出它的身体，却无法造出一颗温柔的心。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "flying",
+			"name": "飞行"
+		},
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		},
+		{
+			"id": "fairy",
+			"name": "妖精"
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "5c78dc1153db1315d0e8094e"
+	},
+	"zukan_id": "151",
+	"zukan_sub_id": 0,
+	"pokemon_name": "梦幻",
+	"pokemon_sub_name": "",
+	"weight": 4,
+	"height": 0.4,
+	"file_name": "/img/pm/3373da1ae6e9a429e7fc8dbad72bf5f4726eb13b.png",
+	"pokemon_type_id": "psychic",
+	"pokemon_type_name": "超能力",
+	"abilities_name": [
+		"同步"
+	],
+	"ability_info": [
+		"将自己的中毒、麻痹或灼伤状态传染给对手。"
+	],
+	"category_name": "新种宝可梦",
+	"evolution": [],
+	"gender_name": [],
+	"status": [
+		[
+			"HP",
+			4
+		],
+		[
+			"攻击",
+			5
+		],
+		[
+			"防御",
+			4
+		],
+		[
+			"特攻",
+			5
+		],
+		[
+			"特防",
+			4
+		],
+		[
+			"速度",
+			5
+		]
+	],
+	"story": [
+		"据说它有着所有宝可梦的遗传基因。因为可以随心所欲地隐形，所以就算接近人类也完全不会被察觉。"
+	],
+	"type": [
+		{
+			"id": "psychic",
+			"name": "超能力"
+		}
+	],
+	"weakness": [
+		{
+			"id": "bug",
+			"name": "虫"
+		},
+		{
+			"id": "ghost",
+			"name": "幽灵"
+		},
+		{
+			"id": "dark",
+			"name": "恶"
+		}
+	]
+}]
+

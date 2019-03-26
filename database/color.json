@@ -1,0 +1,77 @@
+[{
+	"_id": "area ",
+	"color": "ffffff"
+},
+{
+	"_id": "bug ",
+	"color": "32b432"
+},
+{
+	"_id": "dark ",
+	"color": "646464"
+},
+{
+	"_id": "dragon ",
+	"color": "3c64c8"
+},
+{
+	"_id": "electric ",
+	"color": "e4b700"
+},
+{
+	"_id": "fairy ",
+	"color": "ff7eb8"
+},
+{
+	"_id": "fighting ",
+	"color": "c85500"
+},
+{
+	"_id": "fire ",
+	"color": "ff3700"
+},
+{
+	"_id": "flying ",
+	"color": "79bcd7"
+},
+{
+	"_id": "ghost ",
+	"color": "8c78f0"
+},
+{
+	"_id": "grass ",
+	"color": "92bf19"
+},
+{
+	"_id": "ground ",
+	"color": "cca142"
+},
+{
+	"_id": "ice ",
+	"color": "00b7ee"
+},
+{
+	"_id": "normal ",
+	"color": "a0a0a0"
+},
+{
+	"_id": "poison ",
+	"color": "be78be"
+},
+{
+	"_id": "psychic ",
+	"color": "dc78c8"
+},
+{
+	"_id": "rock ",
+	"color": "a07850"
+},
+{
+	"_id": "steel ",
+	"color": "96b4dc"
+},
+{
+	"_id": "water ",
+	"color": "0094e5"
+}]
+
